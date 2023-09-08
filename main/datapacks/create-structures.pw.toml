@@ -1,0 +1,13 @@
+name = "Create: Structures"
+filename = "Create Structures - v0.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAnP4np7/versions/e9v4MIpX/Create%20Structures%20-%20v0.1.0.zip"
+hash-format = "sha1"
+hash = "28b4059b67ecce5802723f75a24815723b44d5fa"
+
+[update]
+[update.modrinth]
+mod-id = "IAnP4np7"
+version = "e9v4MIpX"

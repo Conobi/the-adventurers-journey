@@ -1,0 +1,13 @@
+name = "Carpeted Stairs & Slabs"
+filename = "carpeted-1.19.2-1.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ogzlp7me/versions/HIrWab2v/carpeted-1.19.2-1.4-fabric.jar"
+hash-format = "sha1"
+hash = "cd64ad550ad36184cad578dd0d76e33300b5ca2e"
+
+[update]
+[update.modrinth]
+mod-id = "Ogzlp7me"
+version = "HIrWab2v"
