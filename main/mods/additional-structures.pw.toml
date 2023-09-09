@@ -1,0 +1,13 @@
+name = "Additional Structures"
+filename = "AdditionalStructures-1.19.x-(v.4.1.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/wtEjVsXc/AdditionalStructures-1.19.x-%28v.4.1.1%29.jar"
+hash-format = "sha1"
+hash = "ac17c53d470f68a9acbe7d43bd246e2c31f6e1fb"
+
+[update]
+[update.modrinth]
+mod-id = "TWsbC6jW"
+version = "wtEjVsXc"

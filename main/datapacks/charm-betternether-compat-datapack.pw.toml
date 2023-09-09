@@ -1,0 +1,13 @@
+name = "Charm - BetterNether Compat Datapack"
+filename = "Charm_BetterNether_integration_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9UclEVT/versions/SSBST22g/Charm_BetterNether_integration_v2.zip"
+hash-format = "sha1"
+hash = "366f840541f4c35df3b2ae88b3257b3b1e61eb44"
+
+[update]
+[update.modrinth]
+mod-id = "Z9UclEVT"
+version = "SSBST22g"

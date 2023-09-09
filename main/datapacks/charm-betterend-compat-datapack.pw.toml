@@ -1,0 +1,13 @@
+name = "Charm - BetterEnd Compat Datapack"
+filename = "Charm_BetterEnd_integration_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iV0hpqLt/versions/kzay167t/Charm_BetterEnd_integration_v2.zip"
+hash-format = "sha1"
+hash = "d840352a1e5b74092c6705cf4a7782061493705d"
+
+[update]
+[update.modrinth]
+mod-id = "iV0hpqLt"
+version = "kzay167t"

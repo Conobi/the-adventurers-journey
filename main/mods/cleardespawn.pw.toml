@@ -1,0 +1,13 @@
+name = "ClearDespawn"
+filename = "ClearDespawn-fabric-1.19.2-1.1.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/RynPxbsG/ClearDespawn-fabric-1.19.2-1.1.11.jar"
+hash-format = "sha1"
+hash = "3791d142b30793e7c67555c45c5b3863b18238b2"
+
+[update]
+[update.modrinth]
+mod-id = "yoJJjRRE"
+version = "RynPxbsG"
