@@ -58,7 +58,7 @@ hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
 file = "kubejs/client_scripts/TheAdventurersJourney_ClientTweaks.js"
-hash = "d650f42fccb40374ac4eedb91f4fd9fc97a26ab7ad2edb803a43222a044d7784"
+hash = "22c351f8c35a0515aeb75a528fcad4f316999d8da5c1673c6efdd48787d0b3a7"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -73,27 +73,23 @@ file = "kubejs/ponder.json"
 hash = "677d8a581464fa1ee1dce8473744bb8d99908ad8d959ba9412ace835aa6df2ab"
 
 [[files]]
-file = "kubejs/server_scripts/Armor_Tools_Crushing.js"
+file = "kubejs/server_scripts_bak/Armor_Tools_Crushing.js"
 hash = "e642ec025c5517680538dbd9a2986f86b01cd4f61f9940fe3398a1b316df61de"
 
 [[files]]
-file = "kubejs/server_scripts/ChippedCreateTweaks.js"
+file = "kubejs/server_scripts_bak/ChippedCreateTweaks.js"
 hash = "db8d1fc9351b89a6cca1a083cd738f234fce28d7968eb1a0ea0f42e4dcb36c89"
 
 [[files]]
-file = "kubejs/server_scripts/ImmersiveAircraftTweaks.js"
+file = "kubejs/server_scripts_bak/ImmersiveAircraftTweaks.js"
 hash = "d5d926170b54589974807645b29508f3df5f270b672a1ec29a39f73111dae30d"
 
 [[files]]
-file = "kubejs/server_scripts/TheAdventurersJourney_ServerTweaks.js"
+file = "kubejs/server_scripts_bak/TheAdventurersJourney_ServerTweaks.js"
 hash = "40bb64884f71ace5c74871294422e130366e05697a06e9bc85cd208dc4256f91"
 
 [[files]]
-file = "kubejs/server_scripts/TomsSimpleStorageTweaks.js"
-hash = "ba62613dff29d4df800cd987516b13b89012b7966238a80681667b2136ebd55b"
-
-[[files]]
-file = "kubejs/server_scripts/UniversalOreTweaks.js"
+file = "kubejs/server_scripts_bak/UniversalOreTweaks.js"
 hash = "715730372698e3e9ca9840b71d94291a2ff3693e1f763390873df2af28a49423"
 
 [[files]]
@@ -858,11 +854,6 @@ metafile = true
 [[files]]
 file = "mods/skip-backup-screen.pw.toml"
 hash = "0e0b6ecb05c6eae1e116c6c47f6af2afeec617f15080c2cecebf792fd63ced44"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "5273b2fca55634de17f94eeb0eeb085017edf8a610dd256a83dbd75cf1830ecf"
 metafile = true
 
 [[files]]

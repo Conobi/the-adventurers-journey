@@ -1,84 +1,234 @@
-<div align="center">
-  <img src="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de" alt="Logo">
-</div>
+<h1 align="center">
+  The Adventurer's Journey
+</h1>
 
-<p align="center">Streamline the Minecraft Modpack Release Process with GitHub Actions!</p>
+<p align="center">Experience an advanced Vanilla-like experience focused on Create, Exploration, Building, QoL (on 1.19.2)</p>
 
 <p align="center">
-  <a href="https://github.com/badges/shields/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github&style=for-the-badge" alt="Use this template">
-  </a>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge" alt="GitHub Actions Badge">
   <img src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge" alt="Minecraft Badge">
 </p>
 
 ---
 
-**mc-modpack-kit** is a GitHub Actions workflow template designed to simplify the release process of Minecraft modpacks using a structured monorepo approach. It automates essential tasks such as versioning, modpack building, and publishing on platforms like Modrinth and CurseForge.
+**The Adventurer's Journey** is a home made and open-source Minecraft modpack with a strong focus on exploration and building, while keeping things vanilla-like.
 
-### Key Features
+## What you'll find in this modpack:
+- All the modern optimization mods ⚡
+- A Create centered experience, with some addons (and soon custom recipes) ⚙️
+- QoL mods and new animations 🏃
+- +9500 new decorative and buildings blocks 🏗️
+- New animals 🐅
+- Mobs that harden the gameplay 👹
+- A beautiful world generation ⛰️
+- Seasons 🍂
+- New structures, villages and dungeons 🏰
+- New ambient sound experience 👂
+- Shaders and vibrant ressource packs 🌄
 
-1. **Monorepo Structure**
+## Known issues
+The modpack crashes on the first run, and KubeJS configurations aren't working for now.
 
-   Embrace the power of organization with a monorepo-style architecture. Each subdirectory represents a different modpack version or loader type, streamlining your management of multiple modpack variations within a single repository.
+## Projects bundled in this modpack
+Support all these creators, this would not exist without them!
+If you have a project in this list and want it to be deleted from the modpack, tell me.
+- 3D Skin Layers
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Adaptive Tooltips
+- Additional Structures
+- Adorn
+- Advancement Plaques
+- AdvancementInfo
+- Alloy Forgery
+- Angling
+- AntiGhost
+- AppleSkin
+- Architectury API
+- Auto Third Person
+- bad packets
+- BCLib
+- Beautify: Refabricated
+- Better Beds
+- Better Statistics Screen
+- Better Third Person
+- BetterEnd
+- BetterF3
+- BetterNether
+- Blur (Fabric)
+- Bobby
+- Bookshelf
+- Bountiful (Fabric)
+- Camera Utils
+- Capes
+- Cardinal Components API
+- Carpet
+- Carpeted Stairs & Slabs
+- Charm
+- Charm - BetterEnd Compat Datapack
+- Charm - BetterNether Compat Datapack
+- Charmonium
+- Chat Heads
+- Chipped
+- ChoiceTheorem's Overhauled Village
+- CIT Resewn
+- ClearDespawn
+- ClickThrough
+- Cloth Config API
+- Clumps
+- Collective
+- Complementary Shaders v4
+- Concurrent Chunk Management Engine (Fabric)
+- Continents
+- Continuity
+- Controlling
+- Create Chunkloading
+- Create Enchantment Industry Fabric
+- Create Fabric
+- Create Goggles
+- Create Slice & Dice
+- Create: Structures
+- CreateFabric&REIBugFix
+- Creeper Overhaul
+- CTOV - Beautify Compat
+- CTOV - Villagers Plus Compat
+- Cycle Paintings
+- Dark Loading Screen
+- Dawn API
+- Debugify
+- Deeper and Darker
+- Diagonal Fences
+- Dungeons and Taverns
+- Dynamic FPS
+- Easy Anvils
+- Easy Magic
+- Eating Animation
+- Enchanted Vertical Slabs
+- Enchantment Descriptions
+- Enhanced Block Entities
+- Entity Culling
+- Every Compat (Wood Good)
+- Extra Alchemy
+- ExtraSounds
+- Fabric Seasons
+- Fabric Seasons: Terralith Compat
+- Fabric Waystones
+- FastAnim
+- FastQuit
+- FerriteCore
+- Forge Config API Port
+- From The Fog
+- Fusion (Connected Textures)
+- Geckolib
+- Geophilic
+- Global Packs
+- I Know What I'm Doing
+- Iceberg
+- ImmediatelyFast
+- Immersive Aircraft
+- Indium
+- Inventory Sorting
+- InvMove
+- Iris Shaders
+- Kambrik
+- Konkrete
+- Krypton
+- KubeJS
+- KubeJS Create
+- LambDynamicLights
+- Language Reload
+- LazyDFU
+- Leaves Be Gone
+- Legendary Tooltips
+- Let Me Despawn
+- Let me play Iris!
+- Lithium
+- Lootr (Fabric)
+- Main Menu Credits
+- Make Bubbles Pop
+- Memory Leak Fix
+- Merchant Markers
+- MidnightLib
+- MixinTrace
+- Mob Captains
+- Mod Menu
+- Model Gap Fix
+- ModernFix
+- Moonlight Lib
+- More Mob Variants
+- Mouse Tweaks
+- Mythic Metals
+- Naturalist
+- No Chat Reports
+- No Telemetry
+- Not Enough Animations
+- Not Enough Crashes
+- oωo (owo-lib)
+- Pack It Up!
+- Peek
+- Philips Ruins
+- Phosphor
+- Pick Up Notifier
+- Polymorph
+- Ponder for KubeJS
+- Presence Footsteps
+- Prism
+- Promenade
+- Puzzles Lib
+- QuickShulker
+- Quilt Kotlin Libraries (QKL)
+- Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)
+- Rechiseled
+- Reese's Sodium Options
+- Remove Terralith Intro Message
+- Resourceful Config
+- Resourceful Lib
+- Rethinking Voxels
+- Rhino
+- Roughly Enough Items (REI)
+- Searchables
+- Shulker Box Tooltip
+- Simple Discord RPC
+- Sit
+- Skip backup screen
+- Smooth Boot (Fabric)
+- Smooth Swapping
+- Sodium
+- Sodium Extra
+- spark
+- Status Effect Bars
+- Stay True
+- Stendhal
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Terralith
+- This Rocks!
+- Universal Ores
+- VillagersPlus
+- Visual Workbench
+- Visuality
+- Wilder Wild
+- WTHIT
+- Xaero's Minimap (Fair-Play)
+- Xaero's World Map
+- YetAnotherConfigLib
+- You're in Grave Danger
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Bridges
+- YUNG's Extras
 
-   Example subdirectories:
-   - `fabric/`: Fabric loader version.
-   - `forge/`: Forge loader version.
+## License
+This modpack is under [MIT license](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). Feel free to do anything with it and to contribute!
 
-   You can create more just by initializing packwiz in the said directory of your choosing.
+## How to contribute?
+You can add any mods or config that works with Modrinth (or Curseforge if it doesn't exists on it), and use `packwiz` to build the modpack.
 
-2. **Automated Releases**
+## Troubleshooting and Support
 
-   Experience effortless version control with Release Please, which generates changelogs and handles version releases automatically, in sync with your pull requests. Maintain clarity with Conventional Commit Messages.
-
-   Examples:
-   - `chore(<modpack dir>): update <mod>` for mod updates.
-   - `feat(<modpack dir>): add <mod>` for adding a mod.
-
-3. **Mod Updates**
-
-   Update your mods effortlessly by utilizing the `update.yml` workflow located in `.github/workflows/update.yml`. This action efficiently updates all mods across all subdirectories.
-
-### Getting Started
-
-1. **Fork the Repository**
-
-   Start by forking this repository to your GitHub account.
-
-2. **Set Up Secrets and Permissions**
-
-   - Navigate to "Settings" -> "Secrets" and add the following secrets:
-     - `MODRINTH_TOKEN`, `MODRINTH_ID` for Modrinth authentication.
-     - `CURSEFORGE_TOKEN`, `CURSEFORGE_ID` for CurseForge authentication.
-   - Enable "Allow GitHub Actions to create and approve pull requests" under "Settings" -> "Actions" -> "General" -> "Workflow permissions".
-
-3. **Initialize Your Modpack**
-
-   - Generate a `pack.toml` file using `packwiz` (installation instructions [here](https://packwiz.infra.link/installation/)) within a modpack folder.
-   - Begin by running `packwiz init`, preferably within the `main` directory.
-  
-4. **Set a release channel**
-   - By default this template uses the `beta (0.1.0)` channel, you can switch it to `release (1.0.0)` when you are ready!
-   - This can be done via executing `.github/workflows/bump-version-release.yml`!
-
-5. **You are good to go!**
-   - You can now merge the release PR that release please has made, sit back and enjoy a cup of coffee! ☕ ^-^
-
-### Troubleshooting and Support
-
-If you encounter any issues or need assistance, consult the [Issues](https://github.com/jh-devv/mc-modpack-kit/issues) page or reach out via my GitHub profile.
-
-### License
-
-This project is licensed under the [CC0 1.0 Universal License](LICENSE).
-
-### Acknowledgments
-
-- This project makes effective use of GitHub Actions and various tools to automate the modpack release process.
-- A heartfelt ❤️ thank you to [Rafii](https://github.com/Rafii2198) for helping with this!
-- Special thanks to the GitHub community for their contributions and support.
-
----
-
-Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀
+If you encounter any issues or need assistance, consult the Issue page or reach out via my GitHub profile.

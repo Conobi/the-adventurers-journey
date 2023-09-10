@@ -1,5 +1,5 @@
 // priority: 0
-
+/*
 console.info('Hello, World! (You will see this line every time client resources reload)')
 
 
@@ -13,7 +13,6 @@ REIEvents.hide('item', event => {
         'create:creative_crate',
         'create:handheld_worldshaper',
         'createaddition:creative_energy',
-        'extended_drawers:creative_upgrade',
         '@lootr',
         'kubejs:rei_groups/creativeitems',
         'minecraft:spawner',
@@ -44,10 +43,6 @@ REIEvents.hide('item', event => {
     itemsToHide.forEach(item => event.hide(item));
 });
 
-REIEvents.add('item', event => {
-    event.add('simplevillagers:trading_block')
-})
-
 // Groups Items in REI
 REIEvents.groupEntries(event => {
 
@@ -59,7 +54,6 @@ REIEvents.groupEntries(event => {
     // Groups Vanilla Minecraft Decoration Blocks
     event.groupItems("kubejs:rei_groups/decoration", "Decoration Blocks", [
         InputItem.of('%decorations'),
-        'bedspreads:decorated_bed',
     ]);
 
     // Groups Vanilla Minecraft Redstone Blocks
@@ -99,11 +93,6 @@ REIEvents.groupEntries(event => {
         InputItem.of('%brewing'),
     ]);
 
-    // Groups Better Furnaces Reforged Items
-    event.groupItems("kubejs:rei_groups/betterfurnacesreforged", "BetterFurnaces Reforged Items", [
-        InputItem.of('@betterfurnacesreforged'),
-    ]);
-
     // Groups Charm Items
     event.groupItems("kubejs:rei_groups/charm", "Charm", [
         InputItem.of('@charm'),
@@ -118,34 +107,6 @@ REIEvents.groupEntries(event => {
     event.groupItems("kubejs:rei_groups/deeperdarker", "Deeper and Darker", [
         InputItem.of('@deeperdarker'),
         'farmersknives:warden_knife',
-    ]);
-
-    // Groups Comfort Items
-    event.groupItems("kubejs:rei_groups/comforts", "Comforts", [
-        InputItem.of('@comforts'),
-    ]);
-
-    // Groups Expanded Delight and Farmers Delight Items
-    event.groupItems("kubejs:rei_groups/delight_mods", "Farmers and Expanded Delight", [
-        InputItem.of('@expandeddelight'),
-        InputItem.of('@farmersdelight'),
-    ]);
-
-    // Groups Friends and Foes Items
-    event.groupItems("kubejs:rei_groups/friendsandfoes", "Friends and Foes", [
-        InputItem.of('@friendsandfoes'),
-    ]);
-
-    // Groups Immersive Paintings Items
-    event.groupItems("kubejs:rei_groups/immersive_paintings", "Immersive Paintings", [
-        InputItem.of('@immersive_paintings'),
-    ]);
-
-    // Groups Reinforced Barrels, Chests, and Shulker Boxes
-    event.groupItems("kubejs:rei_groups/reinforced_mods", "Reinforced Barrels, Chests, and Shulker Boxes", [
-        InputItem.of('@reinfbarrel'),
-        InputItem.of('@reinfchest'),
-        InputItem.of('@reinfshulker'),
     ]);
 
     // Groups Supplementary Items
@@ -185,19 +146,9 @@ REIEvents.groupEntries(event => {
         InputItem.of('@fwaystones'),
     ]);
 
-    // Groups Extended Drawer Items
-    event.groupItems("kubejs:rei_groups/extended_drawers", "Extended Drawers", [
-        InputItem.of('@extended_drawers'),
-    ]);
-
     // Groups Naturalist Items Together
     event.groupItems("kubejs:rei_groups/naturalist", "Naturalist", [
         InputItem.of('@naturalist'),
-    ]);
-
-    // Groups Critter and Companions Items Together
-    event.groupItems("kubejs:rei_groups/critters", "Critters & Companions", [
-        InputItem.of('@crittersandcompanions'),
     ]);
 
     // Groups Angling Items Together
@@ -297,3 +248,4 @@ function getID(id) {
     return id;
 };
 
+*/
