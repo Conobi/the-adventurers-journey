@@ -1,12 +1,12 @@
 name = "The Adventurer's Journey"
 author = "Conobi"
-version = "main-v0.1.0"
+version = "main-v0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9eb308c43519957162555a0f665c07f2cb66238b5dec80d7268910e073659fbe"
+hash = "d3fb395a4926b9d62203b71437efdcb41d6404734532328a2f87cff4aff0126b"
 
 [versions]
 minecraft = "1.19.2"

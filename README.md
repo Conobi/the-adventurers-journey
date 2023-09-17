@@ -1,5 +1,7 @@
+<img src="/assets/logo.png" alt="The Adventurer's Journey logo" align="center">
+
 <h1 align="center">
-  The Adventurer's Journey
+  The Adventurer's Journey  
 </h1>
 
 <p align="center">Experience an advanced Vanilla-like experience focused on Create, Exploration, Building, QoL (on 1.19.2)</p>
@@ -46,6 +48,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Architectury API
 - Auto Third Person
 - bad packets
+- Balm
 - BCLib
 - Beautify: Refabricated
 - Better Beds
@@ -68,6 +71,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Charm - BetterNether Compat Datapack
 - Charmonium
 - Chat Heads
+- Cherished Worlds
 - Chipped
 - ChoiceTheorem's Overhauled Village
 - CIT Resewn
@@ -77,8 +81,6 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Clumps
 - Collective
 - Complementary Shaders v4
-- Concurrent Chunk Management Engine (Fabric)
-- Continents
 - Continuity
 - Controlling
 - Create Chunkloading
@@ -96,6 +98,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Dawn API
 - Debugify
 - Deeper and Darker
+- Default Options
 - Diagonal Fences
 - Dungeons and Taverns
 - Dynamic FPS
@@ -112,14 +115,13 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Fabric Seasons
 - Fabric Seasons: Terralith Compat
 - Fabric Waystones
+- FancyMenu
 - FastAnim
 - FastQuit
 - FerriteCore
 - Forge Config API Port
-- From The Fog
 - Fusion (Connected Textures)
 - Geckolib
-- Geophilic
 - Global Packs
 - I Know What I'm Doing
 - Iceberg
@@ -130,6 +132,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - InvMove
 - Iris Shaders
 - Kambrik
+- KleeSlabs
 - Konkrete
 - Krypton
 - KubeJS
@@ -154,6 +157,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Model Gap Fix
 - ModernFix
 - Moonlight Lib
+- More Culling
 - More Mob Variants
 - Mouse Tweaks
 - Mythic Metals
@@ -173,6 +177,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Presence Footsteps
 - Prism
 - Promenade
+- Puzzle
 - Puzzles Lib
 - QuickShulker
 - Quilt Kotlin Libraries (QKL)
@@ -191,7 +196,6 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Sit
 - Skip backup screen
 - Smooth Boot (Fabric)
-- Smooth Swapping
 - Sodium
 - Sodium Extra
 - spark
@@ -201,6 +205,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - SuperMartijn642's Config Lib
 - SuperMartijn642's Core Lib
 - Supplementaries
+- TerraBlender
 - Terralith
 - This Rocks!
 - Universal Ores
@@ -208,6 +213,7 @@ If you have a project in this list and want it to be deleted from the modpack, t
 - Visual Workbench
 - Visuality
 - Wilder Wild
+- William Wythers' Overhauled Overworld
 - WTHIT
 - Xaero's Minimap (Fair-Play)
 - Xaero's World Map

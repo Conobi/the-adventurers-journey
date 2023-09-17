@@ -1,0 +1,287 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = theadventurersjourney
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 53
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -48
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -74
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=44%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 226
+  action = deep_customization_element:title_screen_branding
+  actionid = c1a1739c-2e7f-4db6-a070-635f1456bde91694867087188
+  y = 263
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 359
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = f440097f-eb36-48e4-9793-4b339d6d50641694867087194
+  y = 168
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 119
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 99f3264b-88e0-41ac-ab4d-450791d727a41694867087194
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = a638c86e-aa1d-435e-b2bf-2741e5829de11694867087194
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = Minecraft {"placeholder":"mcversion"} with {"placeholder":"loadedmods"} mods
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -122
+  width = 245
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2f1b9365-ec83-4e62-8577-8494ddf9c1661694867337198
+  y = -17
+  delayappearance = true
+  alignment = centered
+  base_color = #F1F1F1
+  delayappearanceeverytime = false
+  height = 12
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 0.5
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.5-{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.5","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.12","decimal":"true"}}
+  path = config/fancymenu/assets/logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 0
+  width = 208
+  action = addtexture
+  actionid = 0de5024d-3031-4725-ab64-e88c932458111694875874629
+  y = 0
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  basecolor = #21d075
+  shadow = true
+  delayappearanceseconds = 0.5
+  rotation = -20.0
+  scale = 0.8
+  refresh = false
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}+{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.75","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}+{"placeholder":"elementheight","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.75","decimal":"true"}}
+  bouncing = true
+  fadein = true
+  vanilla-like = false
+  fadeinspeed = 1.0
+  x = 0
+  actionid = d6d9c9ba-8541-4404-a841-e92b13c168451694875932992
+  action = addsplash
+  y = 0
+  delayappearance = true
+  text = Made by Conobi!
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink;https://github.com/Donokami/the-adventurers-journey%btnaction_splitter_fm%
+  label = Project page
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -86
+  width = 81
+  action = addbutton
+  actionid = 897c1fa8-6667-4157-8b8d-311ef36614fd1694962706012
+  y = -25
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 20
+}
+

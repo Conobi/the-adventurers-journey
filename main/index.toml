@@ -21,16 +21,164 @@ file = "config/bclib/main.json"
 hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
-file = "config/bclib/recipes.json"
-hash = "8f5a02b519570d59bc7a9e12ec1a41a89545a9fffd8187da568be59f895d1c58"
-
-[[files]]
 file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "ba1b5a033e9a75aa792e4dea4bf4c76884b38343966c6b20a8d19c71c3593785"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b12b79334e164f8b13a48495d840d248043eb941ef2af31d64a71e0fec6f6348"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "2083a008515d659b9d047f7cdead2361d39d2f5f4e2da4f36a9b27a04cd7273f"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "aa459a94eca1731eec57af494a04ae257dafe75bfb0eb5d41991966946201ffd"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "0ba41b0756f2cca68adfff48330a20ae61fa318932af99182a5986501815622a"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "92d7dd7c98a248b03e1f39de23f1781bcb558e3d7d9c1dd4e790b89427ea534c"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "607faa53bc467f1f4bba3989279a091e8c44ccac6608cb923ee4aa36e0bf1483"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/the_adventurers_journey.txt"
+hash = "62c757a339d2ef6cc4f0f0271b1c5f73fc235535a7551e85b0135536d42c1d8e"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/overlay.png"
+hash = "6c30f7a19b0663b8cfbe94b933f09f1d2db83acd58f9af1526d569ab779be748"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_0.png"
+hash = "6bc7f30f5418ebc73d418d781a4b0589ea5e293b59065998f7ccd6685ed664ac"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_1.png"
+hash = "7a85b2b865867f8c799d37a1e1cfe680403e581bb7f666014289aafdd9438916"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_2.png"
+hash = "e1e750bf097967ef9709a0341bc311b5b4df500ed37bfd25c5d400ba3ead5c8b"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_3.png"
+hash = "eabf38e21e4e9fdbba74985d223d2cf3918833d5b09f470d78066400295c8302"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_4.png"
+hash = "d5b59c45852a8fcd4c1d8e68c2d24115e80b44b9d7397ddacf02b9eada790867"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/panorama/panorama_5.png"
+hash = "2458d398c2576e9460c940a72ebd88b5a8c4e67c6edcde394910cb3a83a0c6be"
+
+[[files]]
+file = "config/fancymenu/panoramas/original/properties.txt"
+hash = "864ed3a4cff958a14f74f62b55cdac6a5242abc7725780e67d5d1aef153e4c2b"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_0.png"
+hash = "094409254918b54a02cdc692e0d3fe71fc47cc8d52a48b3fc1c6e8cc831809b8"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_1.png"
+hash = "ab13ab5026c1823a12e28fed2af6192c8624ce6b66808669a8bb7f200fdbc00e"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_2.png"
+hash = "fb53f660a8c77889014755a0c99ae2dc529f1bdfb9587d047c5e002248831692"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_3.png"
+hash = "a64e05c81478d6daf50eba7f029b8b7244e22ed2918218f0d86f3a18e7f9b621"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_4.png"
+hash = "0d082c9c9fcfb511fccc877d3f9e131b51bb201ead7181235f8ae7ddad891c3e"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/panorama/panorama_5.png"
+hash = "1feb7988fa69420db634327e05768b3f2efaee766283b56621c7547eedb5263f"
+
+[[files]]
+file = "config/fancymenu/panoramas/theadventurersjourney/properties.txt"
+hash = "38e7be70edfcb714db8e663cb2808907efc28f97926eafdffc9bcdcdfe170738"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "e7f08fdad3953307a70c134f5e6cd5f2a30d170d674f104e16f574a1d015bba6"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "70786113630ae15a599ef179ec70c6ea2ad24403fc1b91f322314f33c2ad8563"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "65150bd0bb581d677f0c66ad69c62682f9c961a06d5c045b7fc6e9f8aec5e08b"
+
+[[files]]
+file = "config/wwoo/wwoo.json5"
+hash = "9128a21f7b2198c741444d68ba70caaea64cadfe9c2e28859940dfec16237a8d"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b2b59e9261fe9c8b2f741cb6836cad1355156b83ac512795f9b74b4c486a3576"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ab300cf7dc508698a3a5c5773f43ce7a3e0159173634ab404186b69f8dcc5b99"
 
 [[files]]
 file = "datapacks/charm-betterend-compat-datapack.pw.toml"
@@ -55,6 +203,10 @@ metafile = true
 [[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "kubejs/client_scripts/TheAdventurersJourney_ClientTweaks.js"
@@ -162,6 +314,11 @@ hash = "8ad70a37942196cdac3bab651037dec11ba0c0df5b6b261231ae66903ecfcdea"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
 metafile = true
@@ -227,11 +384,6 @@ hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
-metafile = true
-
-[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "a3326c6be394dd05dc7758f6187a4e2ddd416fd47b387ea40eef180c65b5ea7e"
 metafile = true
@@ -272,6 +424,11 @@ hash = "eeb7901c2222b131a01990bc5f8e7d2f1d5beaed7786bfecf8f8738d4674df30"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9cba2d347b86155259f77c55a5aeff95c1e865ff3e55146541d0f4d6fb27c8f1"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
@@ -304,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "51ac305aa5338daa92562c574fbf38f79cc3cc789eb390d34e7a1aed2ccee734"
-metafile = true
-
-[[files]]
-file = "mods/continents.pw.toml"
-hash = "070be0c173cc30cfeb25f889e93fbe2f8bf22c3ff1b0ec1aa2ae989ab51796de"
 metafile = true
 
 [[files]]
@@ -389,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
 metafile = true
 
 [[files]]
@@ -477,6 +634,11 @@ hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "265c53da9ce2604cbf89f29112747beacf753f08fc43c47a4c3a82ef83377167"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "d2ef3acb67d8e9fc5cdbd614048c55b2b08f50d1405287357acb72897793b332"
 metafile = true
@@ -497,11 +659,6 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1afffc87fa69b0fbbb78289707ed1e5292f502eaa12c016483aae6e27b5c5e7a"
 metafile = true
@@ -514,11 +671,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "80190a487d05dbc2a04925c2b6b3cb5e885f30da4e5559bb6bb34767b44f5694"
 metafile = true
 
 [[files]]
@@ -569,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "69db7a4aa6bf2136864de6a5109c3549d589f11005e9663c6b4d2b6947e6d7c3"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "31709eacab3fe29866179e5e6fdcb4ba9eaec999e1b9a1ae82b1224954f7acd5"
 metafile = true
 
 [[files]]
@@ -697,6 +854,11 @@ hash = "d91e9e9b3810e9477226b3bd242b410e1e777d14ab674e6db4bbcb7e1e1e0117"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
@@ -787,6 +949,11 @@ hash = "347ccf45370cce05e8341ae2c2ef987ad2af7b2763335943b1788fac6599fca8"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
@@ -862,11 +1029,6 @@ hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "e3387f6f4a066004b25bfde659986dff31b9bb1197f3eb35b23726bf8d62154b"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -912,6 +1074,11 @@ hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
 metafile = true
@@ -949,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "1b4f3fc969b6e8a14298e52c8be89c5fda8b6696ff70c1e457317af4e2c088bc"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "dc31ab32c3bfb20a19432f07f8540dd7c0b5563a0d2ac922551f5ca7b4d019fd"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "William Wythers' Overhauled Overworld"
+filename = "WWOO-FABRIC-3.1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/YotfJllH/WWOO-FABRIC-3.1.9.1.jar"
+hash-format = "sha1"
+hash = "1c0bd3549e0c6a288caa139bd443b65a14bdab16"
+
+[update]
+[update.modrinth]
+mod-id = "O1XGs7ps"
+version = "YotfJllH"
