@@ -74,7 +74,7 @@ jobs:
         id: release-please
         uses: google-github-actions/release-please-action@v3
         with:
-          monorepo-tags: true
+          monorepo-tags: false
           include-v-in-tag: false
           path: ${{ matrix.modpack }}
           release-type: simple
