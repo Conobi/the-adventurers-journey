@@ -1,5 +1,6 @@
-<img src="/assets/logo.png" alt="The Adventurer's Journey logo" align="center">
-
+<p align="center">
+  <img src="/assets/icon.png" alt="The Adventurer's Journey logo" height="120" width="120">
+</p>
 <h1 align="center">
   The Adventurer's Journey  
 </h1>
@@ -28,7 +29,7 @@
 - Shaders and vibrant ressource packs 🌄
 
 ## Known issues
-The modpack crashes on the first run, and KubeJS configurations aren't working for now.
+KubeJS configurations aren't working for now.
 
 ## Projects bundled in this modpack
 Support all these creators, this would not exist without them!
