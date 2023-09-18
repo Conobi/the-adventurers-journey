@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Donokami/the-adventurers-journey/compare/0.1.0...0.2.0) (2023-09-18)
+
+
+### Features
+
+* Better generation, menus, and global stability ([52cebcc](https://github.com/Donokami/the-adventurers-journey/commit/52cebccc02e25e16372b843bbf85a325ec473d34))
+
 ## [0.1.0](https://github.com/Donokami/the-adventurers-journey/compare/main-v0.2.0...main-0.1.0) (2023-09-18)
 
 
