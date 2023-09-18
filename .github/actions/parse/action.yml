@@ -1,26 +1,29 @@
-name: 'Parse Modpack | Action'
-description: 'Parses a modpacks pack file'
+name: "Parse Modpack | Action"
+description: "Parses a modpacks pack file"
 
 inputs:
   modpack:
-    description: 'Path to the modpack directory'
+    description: "Path to the modpack directory"
     required: false
-    default: '.'
+    default: "."
   pack-file:
-    description: 'Path to the pack config file'
+    description: "Path to the pack config file"
     required: false
-    default: 'pack.toml'
+    default: "pack.toml"
 
 outputs:
   loader:
-    description: 'Detected mod loader'
+    description: "Detected mod loader"
     value: ${{ steps.parse.outputs.loader }}
   game-version:
-    description: 'Detected game version'
+    description: "Detected game version"
     value: ${{ steps.parse.outputs.game-version }}
+  modpack-name:
+    description: "Detected modpack name"
+    value: ${{ steps.parse.outputs.modpack-name }}
 
 runs:
-  using: 'composite'
+  using: "composite"
 
   steps:
     - name: Check Out Git Repository
@@ -39,10 +42,13 @@ runs:
         [[ -z "$LOADER" ]] && { echo "::error file=${{ env.pack-file }}::No match found for loaders in ${{ env.pack-file }}" && exit 1; }
 
         GAME_VERSION=$(grep -oP 'minecraft = "\K[^"]+' "${{ env.pack-file }}")
+        MODPACK_NAME=$(grep -oP 'name = "\K[^"]+' "${{ env.pack-file }}")
         echo "loader=$LOADER" >> $GITHUB_ENV
         echo "game-version=$GAME_VERSION" >> $GITHUB_ENV
+        echo "modpack-name=$MODPACK_NAME" >> $GITHUB_ENV
 
         echo "::notice ::⚙ The detected loader for ${{ inputs.modpack }} is $LOADER"
         echo "::notice ::⚙ The detected game version for ${{ inputs.modpack }} is $GAME_VERSION"
+        echo "::notice ::⚙ The detected modpack name for ${{ inputs.modpack }} is $MODPACK_NAME"
       shell: bash
       working-directory: ${{ inputs.modpack }}

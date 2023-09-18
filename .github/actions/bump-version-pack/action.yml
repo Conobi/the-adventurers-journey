@@ -16,7 +16,7 @@ inputs:
 
 runs:
   using: 'composite'
-  
+
   steps:
     - name: Check Out Git Repository
       uses: actions/checkout@v3
@@ -28,4 +28,4 @@ runs:
     - name: Push the Updated Version
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "chore(${{ inputs.modpack }}): bump version to ${{ inputs.release-tag }}"
+        commit_message: "chore: bump version to ${{ inputs.release-tag }}"

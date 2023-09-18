@@ -6,13 +6,11 @@ on:
       - main
 
 env:
-  pack-file: 'pack.toml'
-  default-release-modrinth: 'true'
-  default-release-curseforge: 'false'
-
+  pack-file: "pack.toml"
+  default-release-modrinth: "true"
+  default-release-curseforge: "false"
 
 jobs:
-
   parse-current-modpacks:
     name: Parse current modpacks to a list
 
@@ -21,15 +19,12 @@ jobs:
     permissions:
       contents: read
 
-
     outputs:
       modpack_folders: ${{ steps.list_modpacks.outputs.modpack_folders }}
-    
-    steps:
 
+    steps:
       - name: Check Out Git Repository
         uses: actions/checkout@v4
-
 
       - name: List Modpacks
         id: list_modpacks
@@ -42,7 +37,7 @@ jobs:
               fi
             fi
           done
-          
+
           echo "modpack_folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
 
       - name: Current detected modpacks
@@ -50,10 +45,9 @@ jobs:
           echo "::notice ::⚙ Current detected modpacks: ${{ steps.list_modpacks.outputs.modpack_folders }}"
 
   release-please:
-
     needs:
       - parse-current-modpacks
-  
+
     if: ${{ (needs.parse-current-modpacks.outputs.modpack_folders) != '[]' }}
 
     strategy:
@@ -73,9 +67,7 @@ jobs:
       contents: write
       pull-requests: write
 
-
-    steps:      
-
+    steps:
       # --- Release please
 
       - name: Perform Release with Release Please
@@ -83,6 +75,7 @@ jobs:
         uses: google-github-actions/release-please-action@v3
         with:
           monorepo-tags: true
+          include-v-in-tag: false
           path: ${{ matrix.modpack }}
           release-type: simple
           package-name: ${{ matrix.modpack }}
@@ -92,7 +85,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
 
       # --- Bump pack.toml version
       # Get Latest tag
@@ -108,7 +100,6 @@ jobs:
           release-tag: ${{ steps.tag.outputs.tag }}
           modpack: ${{ matrix.modpack }}
         if: ${{ steps.release-please.outputs.releases_created }}
-
 
       # --- Handle the configs
 
@@ -127,7 +118,6 @@ jobs:
         shell: bash
         if: ${{ steps.release-please.outputs.releases_created }}
 
-
       # --- Build an release
 
       - name: Build modpack
@@ -135,6 +125,7 @@ jobs:
         with:
           modpack: ${{ matrix.modpack }}
           release-tag: ${{ steps.tag.outputs.tag }}
+          modpack-name: ${{ steps.parse.outputs.modpack-name }}
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
         if: ${{ steps.release-please.outputs.releases_created }}

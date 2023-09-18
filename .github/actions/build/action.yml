@@ -1,5 +1,5 @@
-name: 'Build Modpack Action | Action'
-description: 'Uses packwiz to build the modpack!'
+name: "Build Modpack Action | Action"
+description: "Uses packwiz to build the modpack!"
 inputs:
   release-tag:
     description: "The release tag for the modpack upload"
@@ -13,17 +13,19 @@ inputs:
   modpack:
     description: "Path to the modpack directory"
     required: false
-    default: '.'
-
+    default: "."
+  modpack-name:
+    description: "Name of the modpack"
+    required: true
 runs:
   using: "composite"
-  
+
   steps:
     - name: Check Out Git Repository
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
-        ref: 'main'
+        ref: "main"
 
     - name: Install packwiz
       uses: supplypike/setup-bin@v3
@@ -47,27 +49,21 @@ runs:
         echo "::notice ::⚙ Modpack ${{ inputs.modpack }} has been exported as .zip"
       shell: bash
       working-directory: ${{ inputs.modpack }}
-
     - name: Upload Modrinth Modpack to GitHub Releases
       if: inputs.build-modrinth == 'true'
-      run: |
-        gh release upload ${{ inputs.release-tag }} *.mrpack \
-          --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
-          --clobber
-        echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to GitHub Releases as a .mrpack"
-      shell: bash
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-      working-directory: ${{ inputs.modpack }}
-
-    - name: Upload CurseForge Modpack to GitHub Releases
-      if: inputs.build-curse == 'true'
-      run: |
-        gh release upload ${{ inputs.release-tag }} *.zip \
-          --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
-          --clobber
-        echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to GitHub Releases as a .zip"
-      shell: bash
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
-      working-directory: ${{ inputs.modpack }}
+      uses: svenstaro/upload-release-action@2.7.0
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: ${{ inputs.modpack }}/*.mrpack
+        asset_name: ${{ inputs.modpack-name }}.mrpack
+        tag: ${{ inputs.release-tag }}
+        overwrite: true
+    - name: Upload Curseforge Modpack to GitHub Releases
+      if: inputs.build-curseforge == 'true'
+      uses: svenstaro/upload-release-action@2.7.0
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: ${{ inputs.modpack }}/*.zip
+        asset_name: ${{ inputs.modpack-name }}.zip
+        tag: ${{ inputs.release-tag }}
+        overwrite: true
