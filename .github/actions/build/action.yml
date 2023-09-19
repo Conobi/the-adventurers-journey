@@ -54,7 +54,7 @@ runs:
       uses: svenstaro/upload-release-action@2.7.0
       with:
         repo_token: ${{ github.token }}
-        file: ${{ inputs.modpack }}/*.mrpack
+        file: ${{ inputs.modpack }}/${{ inputs.modpack-name }}-${{ release-tag }}.mrpack
         asset_name: ${{ inputs.modpack-name }}.mrpack
         tag: ${{ inputs.release-tag }}
         overwrite: true
@@ -63,7 +63,7 @@ runs:
       uses: svenstaro/upload-release-action@2.7.0
       with:
         repo_token: ${{ github.token }}
-        file: ${{ inputs.modpack }}/*.zip
+        file: ${{ inputs.modpack }}/${{ inputs.modpack-name }}-${{ release-tag }}.zip
         asset_name: ${{ inputs.modpack-name }}.zip
         tag: ${{ inputs.release-tag }}
         overwrite: true
