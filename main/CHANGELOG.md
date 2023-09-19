@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/Donokami/the-adventurers-journey/compare/0.1.0...0.1.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* Incorrect input in the modpack build pipeline ([5e8bb3e](https://github.com/Donokami/the-adventurers-journey/commit/5e8bb3eca69f256b16f9458b614c28642830f1ff))
+
 ## [0.1.0](https://github.com/Donokami/the-adventurers-journey/compare/v0.2.0...0.1.0) (2023-09-18)
 
 
