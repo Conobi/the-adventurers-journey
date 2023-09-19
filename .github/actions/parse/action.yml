@@ -43,9 +43,9 @@ runs:
 
         GAME_VERSION=$(grep -oP 'minecraft = "\K[^"]+' "${{ env.pack-file }}")
         MODPACK_NAME=$(grep -oP 'name = "\K[^"]+' "${{ env.pack-file }}")
-        echo "loader=$LOADER" >> $GITHUB_ENV
-        echo "game-version=$GAME_VERSION" >> $GITHUB_ENV
-        echo "modpack-name=$MODPACK_NAME" >> $GITHUB_ENV
+        echo "loader=$LOADER" >> $GITHUB_OUTPUT
+        echo "game-version=$GAME_VERSION" >> $GITHUB_OUTPUT
+        echo "modpack-name=$MODPACK_NAME" >> $GITHUB_OUTPUT
 
         echo "::notice ::⚙ The detected loader for ${{ inputs.modpack }} is $LOADER"
         echo "::notice ::⚙ The detected game version for ${{ inputs.modpack }} is $GAME_VERSION"
