@@ -138,6 +138,7 @@ jobs:
           game-version: ${{ steps.parse.outputs.game-version }}
           upload-modrinth: ${{ steps.set-mod-vendors.outputs.modrinth }}
           upload-curse: ${{ steps.set-mod-vendors.outputs.curseforge }}
+          modpack-name: ${{ steps.parse.outputs.modpack-name }}
           MODRINTH_ID: ${{ secrets.MODRINTH_ID }}
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
         if: |
