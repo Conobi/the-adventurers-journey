@@ -226,21 +226,23 @@ customization {
 }
 
 customization {
+  advanced_height = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.25","decimal":"true"}}
   orientation = top-left
   delayappearanceseconds = 0.5
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.5-{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.5","decimal":"true"}}
+  advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.33","decimal":"true"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.12","decimal":"true"}}
   path = config/fancymenu/assets/logo.png
   fadein = true
   fadeinspeed = 1.0
   x = 0
-  width = 208
+  width = 422
   action = addtexture
   actionid = 0de5024d-3031-4725-ab64-e88c932458111694875874629
   y = 0
   delayappearance = true
   delayappearanceeverytime = false
-  height = 52
+  height = 105
 }
 
 customization {
@@ -249,7 +251,7 @@ customization {
   shadow = true
   delayappearanceseconds = 0.5
   rotation = -20.0
-  scale = 0.8
+  scale = 1.0
   refresh = false
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}+{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.75","decimal":"true"}}
   advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposy","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}+{"placeholder":"elementheight","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.75","decimal":"true"}}
