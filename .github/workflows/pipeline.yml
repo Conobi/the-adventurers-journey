@@ -101,6 +101,10 @@ jobs:
           modpack: ${{ matrix.modpack }}
         if: ${{ steps.release-please.outputs.releases_created }}
 
+      - name: List and update projects on Readme
+        uses: ./.github/actions/list-projects
+        if: ${{ steps.release-please.outputs.releases_created }}
+
       # --- Handle the configs
 
       - name: Parse pack file

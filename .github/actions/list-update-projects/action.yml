@@ -1,0 +1,36 @@
+name: 'Update Projects List | Action'
+description: 'Update the project list, both on the Readme and the Modrinth body'
+
+runs:
+  using: 'composite'
+
+  steps:
+    - name: Check Out Git Repository
+      uses: actions/checkout@v3
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v4
+      with:
+        # Semantic version range syntax or exact version of a Python version
+        python-version: '3.x'
+    - name: Install dependencies
+      run: python -m pip install --upgrade pip setuptools wheel requests
+    - name: Run the Projects List Updater
+      id: list-projects
+      run: python list-projects.py
+      env:
+        OUTPUT_FILE: 'README.md'
+        CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+    - name: Update the Modrinth Body
+      run: |
+        curl -X PATCH https://api.modrinth.com/v2/project/$MODRINTH_PROJECT_ID \
+          -H "Authorization: $MODRINTH_TOKEN" \
+          -H "Content-Type: application/json" \
+          -d "{\"body\": \"$(cat $OUTPUT_FILE | sed 's/"/\\"/g' | awk '{printf "%s\\n", $0}')\"}"
+      env:
+        OUTPUT_FILE: 'README.md'
+        MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+        MODRINTH_PROJECT_ID: ${{ secrets.MODRINTH_ID }}
+    - name: Push the Updated Version
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "chore: updated list of projects embedded"
