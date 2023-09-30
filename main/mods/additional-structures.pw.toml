@@ -1,13 +1,13 @@
 name = "Additional Structures"
-filename = "AdditionalStructures-1.19.x-(v.4.1.1).jar"
+filename = "AdditionalStructures-1.19.x-(v.4.1.2-fabric).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/wtEjVsXc/AdditionalStructures-1.19.x-%28v.4.1.1%29.jar"
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/Kwzpj5Nk/AdditionalStructures-1.19.x-%28v.4.1.2-fabric%29.jar"
 hash-format = "sha1"
-hash = "ac17c53d470f68a9acbe7d43bd246e2c31f6e1fb"
+hash = "e67238b01e957d17a3f0b537c0d21a21328ea5f9"
 
 [update]
 [update.modrinth]
 mod-id = "TWsbC6jW"
-version = "wtEjVsXc"
+version = "Kwzpj5Nk"
