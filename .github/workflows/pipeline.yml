@@ -102,7 +102,7 @@ jobs:
         if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: List and update projects on Readme
-        uses: ./.github/actions/list-projects
+        uses: ./.github/actions/list-update-projects
         if: ${{ steps.release-please.outputs.releases_created }}
 
       # --- Handle the configs
