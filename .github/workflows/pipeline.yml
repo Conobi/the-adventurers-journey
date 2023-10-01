@@ -103,6 +103,10 @@ jobs:
 
       - name: List and update projects on Readme
         uses: ./.github/actions/list-update-projects
+        with:
+          MODRINTH_ID: ${{ secrets.MODRINTH_ID }}
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
         if: ${{ steps.release-please.outputs.releases_created }}
 
       # --- Handle the configs
