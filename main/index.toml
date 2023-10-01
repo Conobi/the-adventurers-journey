@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "7258185ca12401ed52d57b98c8f000b6f8d439aaecefa443f9fe913dd3b8ca8a"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "d308e835f4946b2128a433213cfe2eac830c6a25fb5a650448c53749ed0d770e"
 
@@ -58,7 +62,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/the_adventurers_journey.txt"
-hash = "62c757a339d2ef6cc4f0f0271b1c5f73fc235535a7551e85b0135536d42c1d8e"
+hash = "b0716f30751033755061b7738a9b37b4d63415b4c090a2cb6f0e5760fb515979"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -690,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "510cc416989c890f0fa0394e39e605a319869eac7a29a00066cebfb6552d2aae"
+hash = "990729ecdd3fe5a2417d11bed4216fd956d3edf87ba0df86eb3a97e21d1ff6c1"
 metafile = true
 
 [[files]]
@@ -1015,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "188114c43df60d07cd54946835ca6dc7f53995259be58c1718c9a6c0b7a29f78"
+hash = "933db1ff10f121385b6cced58ab3968b0b6a4b48561697f7b384ba24cec17833"
 metafile = true
 
 [[files]]
@@ -1065,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "9eb7beda2cf81e1b185c73860eac3609ab7c8c1e6f34d8550365d05acd32242f"
+hash = "028b267553b256c92908d88b0b7c8e4dff916b75f90edc04216cdfea1e7df96f"
 metafile = true
 
 [[files]]
