@@ -56,8 +56,8 @@ runs:
 
     - name: Rename the pack files
       run: |
-        mv *.zip "${{ inputs.modpack-name }}.zip"
-        mv *.mrpack "${{ inputs.modpack-name }}.mrpack"
+        mv *.zip "${{ inputs.modpack-name }}.zip" 2>/dev/null; true
+        mv *.mrpack "${{ inputs.modpack-name }}.mrpack" 2>/dev/null; true
       shell: bash
 
     - name: Get latest release description
