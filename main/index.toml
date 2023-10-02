@@ -5,6 +5,10 @@ file = "CHANGELOG.md"
 hash = "5b5a6215f069ead7f647e593e670dff8bc843b9c536e14bad0e371d58094fb87"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "e87beb3b1bd907e32b0fd7f37a97bbffad19bedc69a51a013bb2a4dddc3674c5"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "d308e835f4946b2128a433213cfe2eac830c6a25fb5a650448c53749ed0d770e"
 
