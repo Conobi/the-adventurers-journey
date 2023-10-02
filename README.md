@@ -77,7 +77,7 @@ Support all these creators, this would not exist without them!
 - [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quat
 - [BCLib](https://modrinth.com/mod/bclib) by quiqueck
 - [Balm](https://modrinth.com/mod/balm) by BlayTheNinth
-- [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated) by Pandarix, Suel_ki
+- [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated) by Suel_ki, Pandarix
 - [Better Beds](https://modrinth.com/mod/better-beds) by Motschen
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) by TheCSDev
 - [Better Third Person](https://modrinth.com/mod/better-third-person) by socolio
@@ -142,7 +142,7 @@ Support all these creators, this would not exist without them!
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 - [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) by SuperMartijn642
-- [Geckolib](https://modrinth.com/mod/geckolib) by Gecko, Tslat, DerToaster98, mchorse, KyoSleep
+- [Geckolib](https://modrinth.com/mod/geckolib) by mchorse, DerToaster98, KyoSleep, Gecko, Tslat
 - [Global Packs](https://modrinth.com/mod/globalpacks) by JTK222
 - [I Know What I'm Doing](https://modrinth.com/mod/i-know-what-im-doing) by HeckinChloe
 - [Iceberg](https://modrinth.com/mod/iceberg) by Grend
@@ -155,7 +155,7 @@ Support all these creators, this would not exist without them!
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs) by BlayTheNinth
 - [Konkrete](https://modrinth.com/mod/konkrete) by keksuccino
 - [Krypton](https://modrinth.com/mod/krypton) by astei
-- [KubeJS](https://modrinth.com/mod/kubejs) by Lat, MaxNeedsSnacks
+- [KubeJS](https://modrinth.com/mod/kubejs) by MaxNeedsSnacks, Lat
 - [KubeJS Create](https://modrinth.com/mod/kubejs-create) by MaxNeedsSnacks, Lat, simibubi
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
 - [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
@@ -179,7 +179,7 @@ Support all these creators, this would not exist without them!
 - [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
-- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, Noaaan, glisco
+- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by glisco, LordDeatHunter, Noaaan
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by kb1000
@@ -199,10 +199,10 @@ Support all these creators, this would not exist without them!
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
 - [QuickShulker](https://modrinth.com/mod/quickshulker) by kyrptonaught
 - [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl) by NoComment1105, Potatoboy9999, Octal, Quilt-Holdings, sschr15
-- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) by OroArmor, Ennui, LambdAurora, Quilt-Holdings
+- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) by Quilt-Holdings, LambdAurora, Ennui, OroArmor
 - [Rechiseled](https://modrinth.com/mod/rechiseled) by SuperMartijn642
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
-- [Resourceful Config](https://modrinth.com/mod/resourceful-config) by epic_oreo, ThatGravyBoat
+- [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
 - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by epic_oreo, ThatGravyBoat
 - [Rhino](https://modrinth.com/mod/rhino) by MaxNeedsSnacks, Lat
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) by shedaniel
@@ -212,7 +212,7 @@ Support all these creators, this would not exist without them!
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by bl4ckscor3
 - [Skip backup screen](https://modrinth.com/mod/skip-backup-screen) by maxthetomas
 - [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) by UltimateBoomer, fantahund
-- [Sodium](https://modrinth.com/mod/sodium) by IMS, jellysquid3
+- [Sodium](https://modrinth.com/mod/sodium) by jellysquid3, IMS
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) by A5b84
 - [Stendhal](https://modrinth.com/mod/stendhal) by NebSpacefarer
@@ -228,11 +228,11 @@ Support all these creators, this would not exist without them!
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WTHIT](https://modrinth.com/mod/wthit) by deirn
 - [Wilder Wild](https://modrinth.com/mod/wilder-wild) by LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, SaishoVibes, Lunade_
-- [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo) by Cristelknight, Apollo, WilliamWythers
+- [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo) by WilliamWythers, Cristelknight, Apollo
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by thexaero
 - [YUNG's API](https://modrinth.com/mod/yungs-api) by YUNGNICKYOUNG
-- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by Tera458, YUNGNICKYOUNG
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by YUNGNICKYOUNG, Tera458
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) by YUNGNICKYOUNG
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) by YUNGNICKYOUNG
