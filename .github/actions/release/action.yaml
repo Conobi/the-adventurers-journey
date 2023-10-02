@@ -56,8 +56,8 @@ runs:
 
     - name: Rename the pack files
       run: |
-        [ $(find . -maxdepth 1 -type f -name "*.mrpack" | wc -l) -eq 1 ] && mv "$(find . -maxdepth 1 -type f -name "*.mrpack")" "${{ inputs.modpack-name }}.mrpack";
-        [ $(find . -maxdepth 1 -type f -name "*.zip" | wc -l) -eq 1 ] && mv "$(find . -maxdepth 1 -type f -name "*.zip")" "${{ inputs.modpack-name }}.zip";
+        if [ "$(find . -maxdepth 1 -type f -name "*.zip" | wc -l)" -eq 1 ]; then mv "$(find . -maxdepth 1 -type f -name "*.zip")" "${{ inputs.modpack-name }}.zip"; fi;
+        if [ "$(find . -maxdepth 1 -type f -name "*.mrpack" | wc -l)" -eq 1 ]; then mv "$(find . -maxdepth 1 -type f -name "*.mrpack")" "${{ inputs.modpack-name }}.mrpack"; fi;
       shell: bash
 
     - name: Get latest release description
