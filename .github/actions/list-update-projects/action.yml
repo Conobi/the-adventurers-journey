@@ -14,6 +14,9 @@ runs:
   steps:
     - name: Check Out Git Repository
       uses: actions/checkout@v3
+    - name: Pull Latest Changes
+      run: git pull
+      shell: bash
     - name: Set up Python 3.x
       uses: actions/setup-python@v4
       with:
@@ -31,7 +34,7 @@ runs:
       shell: bash
     - name: Update the Modrinth Body
       run: |
-        curl -X PATCH https://api.modrinth.com/v2/project/$MODRINTH_PROJECT_ID \
+        curl -X PATCH "https://api.modrinth.com/v2/project/$MODRINTH_PROJECT_ID" \
           -H "Authorization: $MODRINTH_TOKEN" \
           -H "Content-Type: application/json" \
           -d "{\"body\": \"$(cat $OUTPUT_FILE | sed 's/"/\\"/g' | awk '{printf "%s\\n", $0}')\"}"

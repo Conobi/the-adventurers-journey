@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/Donokami/the-adventurers-journey/main/assets/icon.png" alt="The Adventurer's Journey logo" height="240" width="240">
 </p>
 
-<p align="center">
+<center>
 
-## The Adventurer's Journey  
-</p>
+<h2 align="center">The Adventurer's Journey</h2>
+</center>
 
 <p align="center">Experience an advanced Vanilla-like experience focused on Create, Exploration, Building, QoL (on 1.19.2)</p>
 
@@ -24,10 +24,8 @@
 **The Adventurer's Journey** is a home made and open-source Minecraft modpack with a strong focus on exploration and building, while keeping things vanilla-like.
 
 <center>
-<p align="center">
 
-## What you'll find in this modpack:
-</p>
+<h2 align="center">What you'll find in this modpack:</h2>
 </center>
 
 - All the modern optimization mods ⚡
@@ -43,10 +41,8 @@
 - Shaders and vibrant ressource packs 🌄
 
 <center>
-<p align="center">
 
-## Projects bundled in this modpack
-</p>
+<h2 align="center">Projects bundled in this modpack</h2>
 </center>
 Support all these creators, this would not exist without them!
 
