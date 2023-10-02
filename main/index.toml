@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7258185ca12401ed52d57b98c8f000b6f8d439aaecefa443f9fe913dd3b8ca8a"
+hash = "5b5a6215f069ead7f647e593e670dff8bc843b9c536e14bad0e371d58094fb87"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -918,11 +918,6 @@ hash = "565e83ccca019170851fcb337355339b8df899ec551f20085b1204d6280dede7"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "c1a7bfc0cfb46224708f22bda2af3727e5c9290fa3c36454343ae7e8056e8109"
 metafile = true
@@ -1050,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
