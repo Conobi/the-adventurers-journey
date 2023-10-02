@@ -97,9 +97,9 @@ Support all these creators, this would not exist without them!
 - [Carpeted Stairs & Slabs](https://modrinth.com/mod/carpeted-stairs) by MehVahdJukaar
 - [Charm](https://modrinth.com/mod/charm) by svenhjol
 - [Charmonium](https://modrinth.com/mod/charmonium) by svenhjol
-- [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain, dzwdz
+- [Chat Heads](https://modrinth.com/mod/chat-heads) by dzwdz, Fourmisain
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) by TheIllusiveC4
-- [Chipped](https://modrinth.com/mod/chipped) by Kekie6, ThatGravyBoat, Terrarium, CodexAdrian, AlexNijjar
+- [Chipped](https://modrinth.com/mod/chipped) by Terrarium, CodexAdrian, Kekie6, AlexNijjar, ThatGravyBoat
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 - [ClearDespawn](https://modrinth.com/mod/cleardespawn) by strikerrocker, Giselbaer
 - [ClickThrough](https://modrinth.com/mod/clickthrough) by Giselbaer
@@ -142,7 +142,7 @@ Support all these creators, this would not exist without them!
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 - [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) by SuperMartijn642
-- [Geckolib](https://modrinth.com/mod/geckolib) by DerToaster98, mchorse, KyoSleep, Gecko, Tslat
+- [Geckolib](https://modrinth.com/mod/geckolib) by Gecko, Tslat, DerToaster98, mchorse, KyoSleep
 - [Global Packs](https://modrinth.com/mod/globalpacks) by JTK222
 - [I Know What I'm Doing](https://modrinth.com/mod/i-know-what-im-doing) by HeckinChloe
 - [Iceberg](https://modrinth.com/mod/iceberg) by Grend
@@ -179,7 +179,7 @@ Support all these creators, this would not exist without them!
 - [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
-- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by Noaaan, LordDeatHunter, glisco
+- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, glisco, Noaaan
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by kb1000
@@ -199,7 +199,7 @@ Support all these creators, this would not exist without them!
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) by Fuzs
 - [QuickShulker](https://modrinth.com/mod/quickshulker) by kyrptonaught
 - [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/qkl) by NoComment1105, Potatoboy9999, Octal, Quilt-Holdings, sschr15
-- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) by Quilt-Holdings, LambdAurora, OroArmor, Ennui
+- [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) by OroArmor, Ennui, LambdAurora, Quilt-Holdings
 - [Rechiseled](https://modrinth.com/mod/rechiseled) by SuperMartijn642
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
@@ -227,7 +227,7 @@ Support all these creators, this would not exist without them!
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) by Fuzs
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WTHIT](https://modrinth.com/mod/wthit) by deirn
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by SaishoVibes, LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, Lunade_
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by Lunade_, Soro335, Treetrain1, SaishoVibes, LudoCrypt, osmiooo, Xfrtrex, I_am_Merp
 - [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo) by Cristelknight, Apollo, WilliamWythers
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by thexaero
