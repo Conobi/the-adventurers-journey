@@ -33,6 +33,10 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "ff418d0b67a582034fb06cc79c7ae8b14f61cbf5e3725b3c28de7f949541c113"
+
+[[files]]
 file = "config/charm.toml"
 hash = "6abe2aab8174c0d4a301e5b8f3a4be0b72c04a7ddeecec520826237142853186"
 
@@ -171,6 +175,10 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "e7f08fdad3953307a70c134f5e6cd5f2a30d170d674f104e16f574a1d015bba6"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "03f5e204ff494dd8932b4aec6d9e4167cf41b5763ec6f8928a1502768e877176"
 
 [[files]]
 file = "config/modmenu.json"
@@ -621,6 +629,11 @@ hash = "67c11607a9e7f5488945f3346c37042d275529b5fc63577e05c0e681b67e4e1e"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "732933c428400d67c6333de4773ec6aa8fca992f8c387ffe557297e6c40c5dd7"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
@@ -901,6 +914,11 @@ hash = "c2d771634edb610cad1cc4e532bf17dd876c8bf127d20e9427ee47eab7cad026"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "d3e42382f6f10882d83ae9d08e9a3e1f78a331f34389629acf8e475ceb9946e7"
+metafile = true
+
+[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "281463f8b6f882c7b1555ee7eb08d57416bfa77f69ec4866e6a64408af455d88"
 metafile = true
@@ -933,6 +951,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
@@ -1028,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "4f0b333b8e7563bddd287a53974acff42109275f35c42931b8674e0b0f0c10a9"
+metafile = true
+
+[[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
 
 [[files]]
@@ -1153,6 +1181,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "fd388f2e0534df831360da52200cdb1bb45b764012de18050609a8d07df982f9"
+metafile = true
+
+[[files]]
+file = "mods/wolves-of-other-furs.pw.toml"
+hash = "f6c359dd2215424f66119c977710957ba7bbd603cf15b819540db4b9f7ae1000"
 metafile = true
 
 [[files]]
