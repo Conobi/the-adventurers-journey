@@ -646,6 +646,11 @@ hash = "265c53da9ce2604cbf89f29112747beacf753f08fc43c47a4c3a82ef83377167"
 metafile = true
 
 [[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "04b2fe6566bd3250e7814aa0cbdf33c134ddd015e8af6edf4f1e5600ef82afaa"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "d2ef3acb67d8e9fc5cdbd614048c55b2b08f50d1405287357acb72897793b332"
 metafile = true
@@ -756,6 +761,11 @@ hash = "451562e9dbe29275fb6bbda2fcf0b7360fd3b765f23b4883818b426f2a3d87e6"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "5b933b50dea90842a5c363ff3975d4eaf60bdcc8a0428042a5d3890584767534"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -831,6 +841,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "92e056e29d0838a3b3a76fb1797fbad1d6629d8d578a338cf6768932bd3e6018"
+metafile = true
+
+[[files]]
 file = "mods/mob-captains.pw.toml"
 hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
 metafile = true
@@ -868,6 +883,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
+hash = "c2d771634edb610cad1cc4e532bf17dd876c8bf127d20e9427ee47eab7cad026"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "281463f8b6f882c7b1555ee7eb08d57416bfa77f69ec4866e6a64408af455d88"
 metafile = true
 
 [[files]]
@@ -1023,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "252a5fb2985bde684048491ba74252f82918e464ebad45e6cc52b3653857ec17"
 metafile = true
 
 [[files]]
