@@ -256,12 +256,13 @@ Support all these creators, this would not exist without them!
 
 <center>
 
-## Known issues
+<h2 align="center">Known issues</h2>
 </center>
-KubeJS configurations aren't working for now.
+- KubeJS configurations aren't working for now.
+- Create Structures aren't generated. [See this](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
 
 <center>
 
-## License
+<h2 align="center">License</h2>
 </center>
 This modpack is under [MIT license](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). Feel free to do anything with it and to contribute!

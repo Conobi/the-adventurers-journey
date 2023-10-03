@@ -231,7 +231,7 @@ customization {
   delayappearanceseconds = 0.5
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.5-{"placeholder":"elementwidth","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}*0.5","decimal":"true"}}
   advanced_width = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}*0.33","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}*0.12","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementheight","values":{"id":"0de5024d-3031-4725-ab64-e88c932458111694875874629"}}","decimal":"true"}}
   path = config/fancymenu/assets/logo.png
   fadein = true
   fadeinspeed = 1.0

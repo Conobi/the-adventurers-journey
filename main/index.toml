@@ -74,7 +74,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/the_adventurers_journey.txt"
-hash = "b0716f30751033755061b7738a9b37b4d63415b4c090a2cb6f0e5760fb515979"
+hash = "0efda6dfb2c476acca15938096babd8dc62460573fee6bd3e616b0ceb4fcc761"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -178,7 +178,7 @@ hash = "e7f08fdad3953307a70c134f5e6cd5f2a30d170d674f104e16f574a1d015bba6"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "03f5e204ff494dd8932b4aec6d9e4167cf41b5763ec6f8928a1502768e877176"
+hash = "b3a6da490935507c49373a84315773008d79e0869b7e540e8fd3b2e5e05caef0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -187,6 +187,10 @@ hash = "70786113630ae15a599ef179ec70c6ea2ad24403fc1b91f322314f33c2ad8563"
 [[files]]
 file = "config/puzzle.json"
 hash = "65150bd0bb581d677f0c66ad69c62682f9c961a06d5c045b7fc6e9f8aec5e08b"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "3c13666220669e91ceb21b0d9d80f3d6131502f284963081df79791fe11ea565"
 
 [[files]]
 file = "config/wwoo/wwoo.json5"
@@ -454,6 +458,11 @@ hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -481,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "6b1ff581efe6d0d79f8bf21ab5df8e676af124befc1d314d276459c217e4ac8b"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
@@ -584,6 +598,11 @@ hash = "b31179108f658fdc015f1eed9a3614d08b212de2e67b2391678d93e3e561c1f2"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
 metafile = true
@@ -625,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "67c11607a9e7f5488945f3346c37042d275529b5fc63577e05c0e681b67e4e1e"
+hash = "430ed04dea53f9216b37a06e8a32a6ae2eabd07abd77f70d7f90a6cc4cd9f922"
 metafile = true
 
 [[files]]
@@ -706,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
@@ -1079,11 +1103,6 @@ hash = "0e0b6ecb05c6eae1e116c6c47f6af2afeec617f15080c2cecebf792fd63ced44"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "252a5fb2985bde684048491ba74252f82918e464ebad45e6cc52b3653857ec17"
 metafile = true
@@ -1176,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
 metafile = true
 
 [[files]]
