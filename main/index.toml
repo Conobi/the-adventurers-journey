@@ -33,6 +33,10 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/charm.toml"
+hash = "6abe2aab8174c0d4a301e5b8f3a4be0b72c04a7ddeecec520826237142853186"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "ba1b5a033e9a75aa792e4dea4bf4c76884b38343966c6b20a8d19c71c3593785"
 
@@ -592,11 +596,6 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "57ab68c18c4be0d0473c579ffed2e16af9bef9701a6a1ed56ddcdc441ea236ba"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
 metafile = true
@@ -1099,6 +1098,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "377f9bb0ff4133e639b9017434cb8ad9bd0af6c9eef4366de04764ab755dc688"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "e5e31faa8cfaf867bff106d682f6bb266fed02d0dc4402a8d8bd540a42d170a3"
 metafile = true
 
 [[files]]
