@@ -54,7 +54,6 @@ Support all these creators, this would not exist without them!
 - [Create Chunkloading](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading) by embeddedt
 - [Kambrik](https://www.curseforge.com/minecraft/mc-mods/kambrik) by Ejektaflex
 - [Lootr (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric) by Noobanidus
-- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) by Benimatic
 #### Resourcepacks
 - [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) by haimcyfly
 ### Modrinth
@@ -70,11 +69,13 @@ Support all these creators, this would not exist without them!
 - [Adorn](https://modrinth.com/mod/adorn) by Juuz
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) by Grend
 - [AdvancementInfo](https://modrinth.com/mod/advancementinfo) by Giselbaer
-- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by glisco, LordDeatHunter, chyzman, Blodhgarm, Noaaan
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by LordDeatHunter, glisco, Noaaan, Blodhgarm, chyzman
+- [Alternate Current](https://modrinth.com/mod/alternate-current) by Space Walker
 - [Angling](https://modrinth.com/mod/angling) by 8s2
 - [AntiGhost](https://modrinth.com/mod/antighost) by Giselbaer
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
 - [Architectury API](https://modrinth.com/mod/architectury-api) by shedaniel, MaxNeedsSnacks, Juuz
+- [Async Locator](https://modrinth.com/mod/async-locator) by bright_spark
 - [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quat
 - [BCLib](https://modrinth.com/mod/bclib) by quiqueck
 - [Balm](https://modrinth.com/mod/balm) by BlayTheNinth
@@ -111,9 +112,8 @@ Support all these creators, this would not exist without them!
 - [Comforts](https://modrinth.com/mod/comforts) by TheIllusiveC4
 - [Continuity](https://modrinth.com/mod/continuity) by peppercode1
 - [Controlling](https://modrinth.com/mod/controlling) by jaredlll08
-- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) by IThundxr, MarbleGateKeeper, RaymondBlaze
+- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) by MarbleGateKeeper, RaymondBlaze, IThundxr
 - [Create Fabric](https://modrinth.com/mod/create-fabric) by alphamode, peppercode1, tropheusj
-- [Create Goggles](https://modrinth.com/mod/create-goggles) by Robocraft999
 - [CreateFabric&REIBugFix](https://modrinth.com/mod/createfabricreibugfix) by TexTrue
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) by Joo5h, ThatGravyBoat
 - [Cycle Paintings](https://modrinth.com/mod/cycle-paintings) by Serilum
@@ -123,13 +123,14 @@ Support all these creators, this would not exist without them!
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) by NewJumper, nitrodynamite18, ang-xd, Pedro270707
 - [Default Options](https://modrinth.com/mod/default-options) by BlayTheNinth
 - [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) by Fuzs
-- [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns) by NovaWostra, Walls17
+- [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns) by Walls17, NovaWostra
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by juliand665, LostLuma
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/easy-magic) by Fuzs
 - [Eating Animation](https://modrinth.com/mod/eating-animation) by theoness1, PinkGoosik
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) by Darkhax
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
+- [Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) by CorgiTaco
 - [Entity Culling](https://modrinth.com/mod/entityculling) by tr7zw
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) by MehVahdJukaar, xelbayria
 - [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement) by Superkat32
@@ -146,7 +147,7 @@ Support all these creators, this would not exist without them!
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) by Fuzs
 - [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) by SuperMartijn642
-- [Geckolib](https://modrinth.com/mod/geckolib) by mchorse, KyoSleep, Gecko, Tslat, DerToaster98
+- [Geckolib](https://modrinth.com/mod/geckolib) by mchorse, KyoSleep, Tslat, Gecko, DerToaster98
 - [Global Packs](https://modrinth.com/mod/globalpacks) by JTK222
 - [Horse Buff](https://modrinth.com/mod/horsebuff) by F53
 - [I Know What I'm Doing](https://modrinth.com/mod/i-know-what-im-doing) by HeckinChloe
@@ -160,8 +161,9 @@ Support all these creators, this would not exist without them!
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs) by BlayTheNinth
 - [Konkrete](https://modrinth.com/mod/konkrete) by keksuccino
 - [Krypton](https://modrinth.com/mod/krypton) by astei
+- [Ksyxis](https://modrinth.com/mod/ksyxis) by VidTu
 - [KubeJS](https://modrinth.com/mod/kubejs) by Lat, MaxNeedsSnacks
-- [KubeJS Create](https://modrinth.com/mod/kubejs-create) by Lat, MaxNeedsSnacks, simibubi
+- [KubeJS Create](https://modrinth.com/mod/kubejs-create) by MaxNeedsSnacks, Lat, simibubi
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
 - [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
 - [LazyDFU](https://modrinth.com/mod/lazydfu) by astei
@@ -173,7 +175,7 @@ Support all these creators, this would not exist without them!
 - [M.R.U](https://modrinth.com/mod/mru) by mineblock11
 - [Main Menu Credits](https://modrinth.com/mod/main-menu-credits) by isxander
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) by Tschipcraft
-- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) by fxmorin, KingContaria
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) by KingContaria, fxmorin
 - [Merchant Markers](https://modrinth.com/mod/merchant-markers) by Grend
 - [MidnightLib](https://modrinth.com/mod/midnightlib) by Motschen
 - [MixinTrace](https://modrinth.com/mod/mixintrace) by comp500
@@ -186,20 +188,19 @@ Support all these creators, this would not exist without them!
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
 - [Moyai](https://modrinth.com/mod/moyai) by MehVahdJukaar, Plantkillable
-- [Mystical Oak Tree](https://modrinth.com/mod/mystical-oak-tree) by Plantkillable, MehVahdJukaar
-- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, glisco, Noaaan
+- [Mystical Oak Tree](https://modrinth.com/mod/mystical-oak-tree) by MehVahdJukaar, Plantkillable
+- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by Noaaan, glisco, LordDeatHunter
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) by kb1000
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) by tr7zw
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) by natanfudge
-- [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) by Nyfaria
 - [Pack It Up!](https://modrinth.com/mod/pack-it-up) by fzzyhmstrs
 - [Peek](https://modrinth.com/mod/peek) by henkelmax
 - [Philips Ruins](https://modrinth.com/mod/philips-ruins) by PhilipModDev
 - [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) by Fuzs
 - [Polymorph](https://modrinth.com/mod/polymorph) by TheIllusiveC4
-- [Ponder for KubeJS](https://modrinth.com/mod/ponder) by Lytho, Relentless
+- [Ponder for KubeJS](https://modrinth.com/mod/ponder) by Relentless, Lytho
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) by Sollace
 - [Prism](https://modrinth.com/mod/prism-lib) by Grend
 - [Promenade](https://modrinth.com/mod/promenade) by Hugman
@@ -210,8 +211,8 @@ Support all these creators, this would not exist without them!
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
 - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by epic_oreo, ThatGravyBoat
-- [Rhino](https://modrinth.com/mod/rhino) by MaxNeedsSnacks, Lat
-- [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by JonahFuses, ItsBlackgear
+- [Rhino](https://modrinth.com/mod/rhino) by Lat, MaxNeedsSnacks
+- [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by ItsBlackgear, JonahFuses
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) by shedaniel
 - [Searchables](https://modrinth.com/mod/searchables) by jaredlll08
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by MisterPeModder
@@ -228,7 +229,7 @@ Support all these creators, this would not exist without them!
 - [Storage Labels](https://modrinth.com/mod/labels) by MehVahdJukaar
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) by SuperMartijn642
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) by SuperMartijn642
-- [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar, Plantkillable
+- [Supplementaries](https://modrinth.com/mod/supplementaries) by Plantkillable, MehVahdJukaar
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
 - [Terralith](https://modrinth.com/mod/terralith) by Stardust, catter1
 - [This Rocks!](https://modrinth.com/mod/this-rocks) by Motschen
@@ -239,13 +240,13 @@ Support all these creators, this would not exist without them!
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) by Fuzs
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WTHIT](https://modrinth.com/mod/wthit) by deirn
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, SaishoVibes, Lunade_
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by Lunade_, SaishoVibes, LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1
 - [William Wythers' Overhauled Overworld](https://modrinth.com/mod/wwoo) by Cristelknight, Apollo, WilliamWythers
 - [Wolves Of Other Furs (W.O.O.F)](https://modrinth.com/mod/wolves-of-other-furs) by mineblock11
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by thexaero
 - [YUNG's API](https://modrinth.com/mod/yungs-api) by YUNGNICKYOUNG
-- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by YUNGNICKYOUNG, Tera458
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by Tera458, YUNGNICKYOUNG
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) by YUNGNICKYOUNG
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) by YUNGNICKYOUNG
