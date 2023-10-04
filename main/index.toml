@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5b5a6215f069ead7f647e593e670dff8bc843b9c536e14bad0e371d58094fb87"
+hash = "e84381402182bf92affc3ccaef84b758b3e049fe19683a3f054836bd654b055f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -18,7 +18,7 @@ hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "bc952a3376bfd519f482b5702d244123ec000999199ae302f990bbfcdcdc3507"
+hash = "9695d0d094fcadbe6780d53e0bbaae4a100fb1c87fdb32b18fd1b5e4c4e6d069"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -30,7 +30,7 @@ hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+hash = "8f1e50ca92cb89ef5aa06f35bcf89c5ff67b20b14bee08bdf7a59282b9ec22dd"
 
 [[files]]
 file = "config/betterf3.json"
@@ -51,10 +51,6 @@ hash = "b12b79334e164f8b13a48495d840d248043eb941ef2af31d64a71e0fec6f6348"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "2083a008515d659b9d047f7cdead2361d39d2f5f4e2da4f36a9b27a04cd7273f"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "aa459a94eca1731eec57af494a04ae257dafe75bfb0eb5d41991966946201ffd"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -308,6 +304,11 @@ hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
+metafile = true
+
+[[files]]
 file = "mods/angling.pw.toml"
 hash = "57be390987d839ca4b90228345fb683a1f3e4ae132ecc6d37ac38cbb0f8a0b74"
 metafile = true
@@ -325,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "d7d55107c94e291c3879e3194af145b8bc55afa2689eda74d93be73d76a6a838"
 metafile = true
 
 [[files]]
@@ -523,11 +529,6 @@ hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "1cf559a007c1a5a985d34c8ff1393a6b4fb3936176f2931ef5e9ac95ac028a9f"
-metafile = true
-
-[[files]]
 file = "mods/createfabricreibugfix.pw.toml"
 hash = "40befbf38a2b15d304c03bbe7b110dc712c4e50845b2c7a7fb8bb8423949aad9"
 metafile = true
@@ -625,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
@@ -790,6 +796,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
