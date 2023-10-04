@@ -173,6 +173,10 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "e7f08fdad3953307a70c134f5e6cd5f2a30d170d674f104e16f574a1d015bba6"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "5b2f06d9c1bd2f6e6e3b787e43fba207253ee7070c39f8081b7f5d88e3519c57"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b3a6da490935507c49373a84315773008d79e0869b7e540e8fd3b2e5e05caef0"
 
@@ -981,11 +985,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
