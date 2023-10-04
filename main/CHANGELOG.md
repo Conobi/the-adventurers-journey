@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0](https://github.com/Donokami/the-adventurers-journey/compare/0.3.0...0.4.0) (2023-10-04)
+
+
+### Features
+
+* Multiple optimizations and cleanup ([9d2d0ef](https://github.com/Donokami/the-adventurers-journey/commit/9d2d0efe28a8e1c4337f19677b44816743a517dc))
+
+
+### Bug Fixes
+
+* Better sort GUI and removed Nyf's spiders ([993b5d2](https://github.com/Donokami/the-adventurers-journey/commit/993b5d22a2c935c3de7ec3a7311ba86e59d6e0e2))
+* Removed Twilight Forest for copyright infrigement ([6de4eff](https://github.com/Donokami/the-adventurers-journey/commit/6de4effa4be4178e2950240a9867eae6b1282d3c))
+
 ## [0.3.0](https://github.com/Donokami/the-adventurers-journey/compare/0.2.0...0.3.0) (2023-10-03)
 
 
