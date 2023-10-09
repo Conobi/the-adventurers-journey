@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e84381402182bf92affc3ccaef84b758b3e049fe19683a3f054836bd654b055f"
+hash = "36605db6e808162044070f37f24503c2aed20a8b821e759edfbd7b5ac7396b14"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "8ad70a37942196cdac3bab651037dec11ba0c0df5b6b261231ae66903ecfcdea"
+hash = "997c16130f34bf02d072731b8495b44cdd468aab70c1c65c1b640df6895a601c"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "430ed04dea53f9216b37a06e8a32a6ae2eabd07abd77f70d7f90a6cc4cd9f922"
+hash = "eb9c6a3771dda6de23a6fb071494902f413a4f88bbb27447d9705bf4b1097267"
 metafile = true
 
 [[files]]
@@ -1149,12 +1149,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "7ad022bf604bb173a777bd87c77b5117b7f4f78bafc194fd9245e42b3d8c7a74"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "028b267553b256c92908d88b0b7c8e4dff916b75f90edc04216cdfea1e7df96f"
+hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
 metafile = true
 
 [[files]]
@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "a717dc408368d7c3d9f0ea5d52b21d30700bc57daf5ad8f04ea246cfe2e65539"
+hash = "3a263a6e8eb1d6b143b3fee3f9b25c7fe8508ff1cfade1ac3d749e46cbac37be"
 metafile = true
 
 [[files]]
