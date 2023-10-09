@@ -668,11 +668,6 @@ hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
 metafile = true
 
 [[files]]
-file = "mods/extrasounds.pw.toml"
-hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
@@ -950,11 +945,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "d3e42382f6f10882d83ae9d08e9a3e1f78a331f34389629acf8e475ceb9946e7"
-metafile = true
-
-[[files]]
-file = "mods/mystical-oak-tree.pw.toml"
-hash = "281463f8b6f882c7b1555ee7eb08d57416bfa77f69ec4866e6a64408af455d88"
 metafile = true
 
 [[files]]
