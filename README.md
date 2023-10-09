@@ -11,11 +11,13 @@
 <p align="center">Experience an advanced Vanilla-like experience focused on Create, Exploration, Building, QoL (on 1.19.2)</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge" alt="Minecraft Badge">
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?labelColor=555555&style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgMGgxNjkuODQ3djE3Mi41MDFIMHptMzQwLjc3NSAwaDE3MC4wOTR2MTcyLjUwMUgzNDAuNzc1em0wIDE3Mi41MDJIMTY5Ljg0N3Y4NS45MTVIODQuNzg1VjUxMmg4NS4wNjJ2LTg2LjY2OGgxNzAuOTI4VjUxMmg4NS44NjZWMjU4LjQxN2gtODUuODY2eiIvPjwvc3ZnPg%3D%3D" alt="Minecraft Badge">
   <a href="https://modrinth.com/modpack/the-adventurers-journey">
     <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/UUATcpwj?style=for-the-badge&label=Modrinth%20downloads&labelColor=62B47A&color=fff&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fthe-adventurers-journey">
   </a>
-  <a href="https://github.com/Donokami/the-adventurers-journey/stargazers"><img src="https://img.shields.io/github/stars/Donokami/the-adventurers-journey?colorA=62B47A&colorB=fff&style=for-the-badge"></a>
+  <a href="https://github.com/Donokami/the-adventurers-journey/stargazers">
+    <img src="https://img.shields.io/github/stars/Donokami/the-adventurers-journey?colorA=62B47A&colorB=fff&style=for-the-badge&logo=github&logoColor=555" alt="Github Stars Badge">
+  </a>
 </p>
 </center>
 
@@ -23,22 +25,24 @@
 
 **The Adventurer's Journey** is a home made and open-source Minecraft modpack with a strong focus on exploration and building, while keeping things vanilla-like.
 
+It chips [Create](https://modrinth.com/mod/create-fabric), [Supplementaries](https://modrinth.com/mod/supplementaries), [Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere), [Chipped](https://modrinth.com/mod/chipped), [BetterNether](https://modrinth.com/mod/betternether)/[BetterEnd](https://modrinth.com/mod/betterend), and other incredible mods!
+
 <center>
 
 <h2 align="center">What you'll find in this modpack:</h2>
 </center>
 
-- All the modern optimization mods ⚡
-- A Create centered experience, with some addons (and soon custom recipes) ⚙️
-- QoL mods and new animations 🏃
-- +9500 new decorative and buildings blocks 🏗️
-- New animals 🐅
+- All the modern **optimization** mods ⚡
+- A **Create centered** experience, with some addons ⚙️
+- **QoL** mods and new animations 🏃
+- **+9500 new decorative and buildings blocks** 🏗️
+- **New animals** 🐅
 - Mobs that harden the gameplay 👹
-- A beautiful world generation ⛰️
-- Seasons 🍂
-- New structures, villages and dungeons 🏰
-- New ambient sound experience 👂
-- Shaders and vibrant ressource packs 🌄
+- A **beautiful world generation** in **all dimensions** ⛰️
+- **Seasons** 🍂
+- New **structures, villages and dungeons** 🏰
+- New **ambient sound experience** 👂
+- **Shaders** and **vibrant ressource packs** 🌄
 
 <center>
 
@@ -277,6 +281,9 @@ Support all these creators, this would not exist without them!
 
 - KubeJS configurations aren't working for now.
 - Create Structures aren't generated. [See this](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
+- Gravel beaches aren't the most beautiful.
+- Vertical slabs are broken for some BetterEnd blocks.
+
 
 <center>
 
