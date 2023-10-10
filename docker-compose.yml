@@ -1,0 +1,44 @@
+version: "3.8"
+
+services:
+  mc-server:
+    container_name: mc-server
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./server-data:/data
+
+    environment:
+      EULA: "TRUE"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/Donokami/the-adventurers-journey/main/main/pack.toml"
+      TYPE: QUILT
+      VERSION: 1.19.2
+      MEMORY: 4G
+      DIFFICULTY: hard
+      OPS: ${ADMIN}
+      WHITELIST: ${ADMIN}
+      MAX_TICK_TIME: -1
+      RCON_PASSWORD: ${RCON_PASSWORD}
+      MODS: |
+        https://cdn.modrinth.com/data/6VdDUivB/versions/G1pSbE8U/essential_commands-0.33.2-mc1.19.2.jar
+        https://cdn.modrinth.com/data/VSNURh3q/versions/TL8Qsm5r/c2me-fabric-mc1.19.2-0.2.0%2Balpha.9.11.jar
+
+  mc-backup:
+    container_name: mc-backup
+    image: itzg/mc-backup
+    environment:
+      RCON_HOST: mc-server
+      RCON_PASSWORD: ${RCON_PASSWORD}
+      BACKUP_METHOD: restic
+      INITIAL_DELAY: 5m
+      RESTIC_PASSWORD: ${RESTIC_PASSWORD}
+      RESTIC_REPOSITORY: ${RESTIC_REPOSITORY}
+      # For S3
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY}
+      PRUNE_RESTIC_RETENTION: "--keep-daily 7 --keep-weekly 5"
+    volumes:
+      - ./server-data:/data:ro
