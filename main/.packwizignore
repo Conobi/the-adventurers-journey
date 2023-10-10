@@ -7,4 +7,5 @@
 
 # Exclude Changelog
 /CHANGELOG.release.md
+/CHANGELOG.md
 bak
