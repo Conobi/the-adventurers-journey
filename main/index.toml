@@ -205,6 +205,11 @@ file = "config/xaeroworldmap.txt"
 hash = "ab300cf7dc508698a3a5c5773f43ce7a3e0159173634ab404186b69f8dcc5b99"
 
 [[files]]
+file = "datapacks/arboria.pw.toml"
+hash = "4166bb203409ee85d0e6bc34badf7478dced3ee71298e85c412a1ac1d5e642fd"
+metafile = true
+
+[[files]]
 file = "datapacks/charm-betterend-compat-datapack.pw.toml"
 hash = "ae7b5b20e7f54270f669fdcc637a3212794352798bb5a49fb4437464f338c07b"
 metafile = true
@@ -960,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "44550fd8d2883b49d8f4e375220563dec6ed88e6c99ae9b17d1d7e544c2aab5b"
 metafile = true
 
 [[files]]
