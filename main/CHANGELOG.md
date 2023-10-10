@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/Donokami/the-adventurers-journey/compare/0.4.0...0.5.0) (2023-10-10)
+
+
+### Features
+
+* Added Arboria custom trees & no Ressource-pack Warnings ([ff9cfde](https://github.com/Donokami/the-adventurers-journey/commit/ff9cfde0a5fc46954b332fe28a875087651ef0ed))
+* Updated mods to their latest version ([288085f](https://github.com/Donokami/the-adventurers-journey/commit/288085f755758ac08e4f81ba2507196698af0c40))
+
+
+### Bug Fixes
+
+* Removed unmaintened mods ([ba5b20a](https://github.com/Donokami/the-adventurers-journey/commit/ba5b20a70d46c79b0a6d7073bfba69ecc25fe0b0))
+
 ## [0.4.0](https://github.com/Donokami/the-adventurers-journey/compare/0.3.0...0.4.0) (2023-10-04)
 
 
