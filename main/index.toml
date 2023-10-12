@@ -921,6 +921,16 @@ hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "34ed651d4994a6759422f60e26521e0980a3393e3f636f10ddb7ce7e35c600f1"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
@@ -1108,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "377f9bb0ff4133e639b9017434cb8ad9bd0af6c9eef4366de04764ab755dc688"
-metafile = true
-
-[[files]]
-file = "mods/vertical-slabs-compat.pw.toml"
-hash = "e5e31faa8cfaf867bff106d682f6bb266fed02d0dc4402a8d8bd540a42d170a3"
 metafile = true
 
 [[files]]
