@@ -1,6 +1,6 @@
 name = "The Adventurer's Journey"
 author = "Conobi"
-version = "0.5.0"
+version = "0.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
