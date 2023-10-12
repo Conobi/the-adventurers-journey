@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.6.0](https://github.com/Donokami/the-adventurers-journey/compare/0.5.0...0.6.0) (2023-10-12)
+
+
+### Features
+
+* Updated modernfix ([b2eaf21](https://github.com/Donokami/the-adventurers-journey/commit/b2eaf210af1e339f069636cca1506fbbd0b86ae2))
+
+
+### Bug Fixes
+
+* Changelog was included in the modpack ([f5ae1e2](https://github.com/Donokami/the-adventurers-journey/commit/f5ae1e211dbfac8039a9549404bbc2e4fb1235b0))
+* Removed KubeJS for fixing server connection reset ([cbfc3b7](https://github.com/Donokami/the-adventurers-journey/commit/cbfc3b7b31469cdac4cb15f84295dd3ffa6eaabe))
+* Removed unused e4mc ([3b196ea](https://github.com/Donokami/the-adventurers-journey/commit/3b196eae38bffd92d76d80f8bd00e91ce9cfc35d))
+
 ## [0.5.0](https://github.com/Donokami/the-adventurers-journey/compare/0.4.0...0.5.0) (2023-10-10)
 
 
