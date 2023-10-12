@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/Donokami/the-adventurers-journey/compare/0.6.0...0.6.1) (2023-10-12)
+
+
+### Bug Fixes
+
+* Removed Vertical slabs that crashes and added OPAC client side ([3d9b7d2](https://github.com/Donokami/the-adventurers-journey/commit/3d9b7d2781821273abe2d506ece2ef95c44292eb))
+
 ## [0.6.0](https://github.com/Donokami/the-adventurers-journey/compare/0.5.0...0.6.0) (2023-10-12)
 
 
