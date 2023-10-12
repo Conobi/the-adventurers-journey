@@ -74,12 +74,12 @@ Support all these creators, this would not exist without them!
 - [Adorn](https://modrinth.com/mod/adorn) by Juuz
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) by Grend
 - [AdvancementInfo](https://modrinth.com/mod/advancementinfo) by Giselbaer
-- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by glisco, chyzman, Blodhgarm, Noaaan, LordDeatHunter
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by glisco, Noaaan, Blodhgarm, LordDeatHunter, chyzman
 - [Alternate Current](https://modrinth.com/mod/alternate-current) by Space Walker
 - [Angling](https://modrinth.com/mod/angling) by 8s2
 - [AntiGhost](https://modrinth.com/mod/antighost) by Giselbaer
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
-- [Architectury API](https://modrinth.com/mod/architectury-api) by MaxNeedsSnacks, shedaniel, Juuz
+- [Architectury API](https://modrinth.com/mod/architectury-api) by shedaniel, MaxNeedsSnacks, Juuz
 - [Async Locator](https://modrinth.com/mod/async-locator) by bright_spark
 - [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quat
 - [BCLib](https://modrinth.com/mod/bclib) by quiqueck
@@ -106,10 +106,10 @@ Support all these creators, this would not exist without them!
 - [Charmonium](https://modrinth.com/mod/charmonium) by svenhjol
 - [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain, dzwdz
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) by TheIllusiveC4
-- [Chipped](https://modrinth.com/mod/chipped) by CodexAdrian, Kekie6, AlexNijjar, ThatGravyBoat, Terrarium
+- [Chipped](https://modrinth.com/mod/chipped) by Terrarium, CodexAdrian, Kekie6, AlexNijjar, ThatGravyBoat
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 - [Chunky](https://modrinth.com/mod/chunky) by pop4959
-- [ClearDespawn](https://modrinth.com/mod/cleardespawn) by strikerrocker, Giselbaer
+- [ClearDespawn](https://modrinth.com/mod/cleardespawn) by Giselbaer, strikerrocker
 - [ClickThrough](https://modrinth.com/mod/clickthrough) by Giselbaer
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) by shedaniel
 - [Clumps](https://modrinth.com/mod/clumps) by jaredlll08
@@ -117,7 +117,7 @@ Support all these creators, this would not exist without them!
 - [Comforts](https://modrinth.com/mod/comforts) by TheIllusiveC4
 - [Continuity](https://modrinth.com/mod/continuity) by peppercode1
 - [Controlling](https://modrinth.com/mod/controlling) by jaredlll08
-- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) by IThundxr, MarbleGateKeeper, RaymondBlaze
+- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) by MarbleGateKeeper, RaymondBlaze, IThundxr
 - [Create Fabric](https://modrinth.com/mod/create-fabric) by alphamode, peppercode1, tropheusj
 - [CreateFabric&REIBugFix](https://modrinth.com/mod/createfabricreibugfix) by TexTrue
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) by Joo5h, ThatGravyBoat
@@ -166,8 +166,6 @@ Support all these creators, this would not exist without them!
 - [Konkrete](https://modrinth.com/mod/konkrete) by keksuccino
 - [Krypton](https://modrinth.com/mod/krypton) by astei
 - [Ksyxis](https://modrinth.com/mod/ksyxis) by VidTu
-- [KubeJS](https://modrinth.com/mod/kubejs) by Lat, MaxNeedsSnacks
-- [KubeJS Create](https://modrinth.com/mod/kubejs-create) by simibubi, MaxNeedsSnacks, Lat
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
 - [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
 - [LazyDFU](https://modrinth.com/mod/lazydfu) by astei
@@ -191,8 +189,8 @@ Support all these creators, this would not exist without them!
 - [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
-- [Moyai](https://modrinth.com/mod/moyai) by Plantkillable, MehVahdJukaar
-- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, glisco, Noaaan
+- [Moyai](https://modrinth.com/mod/moyai) by MehVahdJukaar, Plantkillable
+- [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, Noaaan, glisco
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) by Space Walker
@@ -204,7 +202,6 @@ Support all these creators, this would not exist without them!
 - [Philips Ruins](https://modrinth.com/mod/philips-ruins) by PhilipModDev
 - [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) by Fuzs
 - [Polymorph](https://modrinth.com/mod/polymorph) by TheIllusiveC4
-- [Ponder for KubeJS](https://modrinth.com/mod/ponder) by Lytho, Relentless
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) by Sollace
 - [Prism](https://modrinth.com/mod/prism-lib) by Grend
 - [Promenade](https://modrinth.com/mod/promenade) by Hugman
@@ -213,8 +210,8 @@ Support all these creators, this would not exist without them!
 - [QuickShulker](https://modrinth.com/mod/quickshulker) by kyrptonaught
 - [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) by OroArmor, Ennui, LambdAurora, Quilt-Holdings
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
-- [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
-- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by ThatGravyBoat, epic_oreo
+- [Resourceful Config](https://modrinth.com/mod/resourceful-config) by epic_oreo, ThatGravyBoat
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by epic_oreo, ThatGravyBoat
 - [Rhino](https://modrinth.com/mod/rhino) by MaxNeedsSnacks, Lat
 - [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by ItsBlackgear, JonahFuses
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) by shedaniel
@@ -235,7 +232,7 @@ Support all these creators, this would not exist without them!
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) by SuperMartijn642
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar, Plantkillable
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
-- [Terralith](https://modrinth.com/mod/terralith) by Stardust, catter1
+- [Terralith](https://modrinth.com/mod/terralith) by catter1, Stardust
 - [This Rocks!](https://modrinth.com/mod/this-rocks) by Motschen
 - [Universal Ores](https://modrinth.com/mod/universal_ores) by Hugman
 - [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat) by MehVahdJukaar
@@ -244,7 +241,7 @@ Support all these creators, this would not exist without them!
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) by Fuzs
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WTHIT](https://modrinth.com/mod/wthit) by deirn
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by Lunade_, LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, SaishoVibes
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, SaishoVibes, Lunade_
 - [William Wythers' Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere) by Cristelknight, Apollo, WilliamWythers
 - [Wolves Of Other Furs (W.O.O.F)](https://modrinth.com/mod/wolves-of-other-furs) by mineblock11
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
@@ -263,7 +260,6 @@ Support all these creators, this would not exist without them!
 - [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) by Traben
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by Traben
 - [bad packets](https://modrinth.com/mod/badpackets) by deirn
-- [e4mc](https://modrinth.com/mod/e4mc) by vgskye
 - [libIPN](https://modrinth.com/mod/libipn) by blackd
 - [oωo (owo-lib)](https://modrinth.com/mod/owo-lib) by glisco, BasiqueEvangelist
 - [spark](https://modrinth.com/mod/spark) by lucko
