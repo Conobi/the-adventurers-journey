@@ -279,11 +279,12 @@ Support all these creators, this would not exist without them!
 <h2 align="center">Known issues</h2>
 </center>
 
-- KubeJS configurations aren't working for now.
+- [KubeJS isn't working for now](https://github.com/KubeJS-Mods/KubeJS/issues/721).
 - Create Structures aren't generated. [See this](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
-- Gravel beaches aren't the most beautiful.
-- Vertical slabs are broken for some BetterEnd blocks.
-- Arboria custom trees cannot grow.
+- Too many structures, and structures generated in the ocean
+- Gravelly beaches aren't the most beautiful
+- Vertical slabs are broken for some BetterEnd blocks
+- Arboria custom trees cannot grow
 
 <center>
 

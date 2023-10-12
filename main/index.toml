@@ -226,54 +226,6 @@ hash = "5c1c56e92403716241db0dc4cce13ca9a9a4fc3afe3bbae5c17e36d53d607328"
 metafile = true
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
-file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/client_scripts/TheAdventurersJourney_ClientTweaks.js"
-hash = "22c351f8c35a0515aeb75a528fcad4f316999d8da5c1673c6efdd48787d0b3a7"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "14b10107799bdbf3a37c33828afc29c64a5083d15c44c4b7a7d96d6272015c1c"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "5b385707c49bc5a6d1c01869914dd58acf5ffdfb925f23416ccda48d9e3f9966"
-
-[[files]]
-file = "kubejs/ponder.json"
-hash = "677d8a581464fa1ee1dce8473744bb8d99908ad8d959ba9412ace835aa6df2ab"
-
-[[files]]
-file = "kubejs/server_scripts_bak/Armor_Tools_Crushing.js"
-hash = "e642ec025c5517680538dbd9a2986f86b01cd4f61f9940fe3398a1b316df61de"
-
-[[files]]
-file = "kubejs/server_scripts_bak/ChippedCreateTweaks.js"
-hash = "db8d1fc9351b89a6cca1a083cd738f234fce28d7968eb1a0ea0f42e4dcb36c89"
-
-[[files]]
-file = "kubejs/server_scripts_bak/ImmersiveAircraftTweaks.js"
-hash = "d5d926170b54589974807645b29508f3df5f270b672a1ec29a39f73111dae30d"
-
-[[files]]
-file = "kubejs/server_scripts_bak/TheAdventurersJourney_ServerTweaks.js"
-hash = "40bb64884f71ace5c74871294422e130366e05697a06e9bc85cd208dc4256f91"
-
-[[files]]
-file = "kubejs/server_scripts_bak/UniversalOreTweaks.js"
-hash = "715730372698e3e9ca9840b71d94291a2ff3693e1f763390873df2af28a49423"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -804,16 +756,6 @@ hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "ac60b89b4b81c788d6c7ee104ddd0d6e5bbf67ac3b8eda96554213ae498ef87f"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "451562e9dbe29275fb6bbda2fcf0b7360fd3b765f23b4883818b426f2a3d87e6"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "5b933b50dea90842a5c363ff3975d4eaf60bdcc8a0428042a5d3890584767534"
 metafile = true
@@ -1011,11 +953,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "2c595940e0a64a48d2505a2938293d22588fb53ab918c79643e23de5f43ba072"
-metafile = true
-
-[[files]]
-file = "mods/ponder.pw.toml"
-hash = "0aa835e16075249b74de06e5abe50abd8113e72215468feca386752307095dae"
 metafile = true
 
 [[files]]
