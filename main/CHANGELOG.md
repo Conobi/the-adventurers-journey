@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.2](https://github.com/Donokami/the-adventurers-journey/compare/0.6.1...0.6.2) (2023-10-13)
+
+
+### Bug Fixes
+
+* Remove mods that could cause the serialize 111 error ([db5d9f9](https://github.com/Donokami/the-adventurers-journey/commit/db5d9f96f0164ac393e3de64feb1c1cc4939d4f8))
+
 ## [0.6.1](https://github.com/Donokami/the-adventurers-journey/compare/0.6.0...0.6.1) (2023-10-12)
 
 
