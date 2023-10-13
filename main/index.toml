@@ -386,11 +386,6 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
-metafile = true
-
-[[files]]
 file = "mods/carpeted-stairs.pw.toml"
 hash = "d71eb6da356995eac7d2e13b396ecb0df92c8b5ac53bc8ef339267fbedbfe723"
 metafile = true
@@ -523,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
@@ -1133,11 +1123,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
 metafile = true
 
 [[files]]
