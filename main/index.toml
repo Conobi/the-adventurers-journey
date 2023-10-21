@@ -1128,6 +1128,11 @@ hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
 
 [[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "8d2217dc18ef88b1032c2e192ed2905a738e15e8425cc2a5a292949bca77d109"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "fd388f2e0534df831360da52200cdb1bb45b764012de18050609a8d07df982f9"
 metafile = true
