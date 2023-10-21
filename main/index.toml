@@ -186,7 +186,7 @@ hash = "65150bd0bb581d677f0c66ad69c62682f9c961a06d5c045b7fc6e9f8aec5e08b"
 
 [[files]]
 file = "config/seasons.json"
-hash = "d6d30d04591b8f1667daea1e626787d3611aefda1d176a05b86df8db0016b23a"
+hash = "e881d70e4abc607f3cdcfb4b0c6b534e0914f91d8a6876b4b8736e3b4755348b"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -711,11 +711,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "86c434a20065ecb7d2a8c65aea7f74b008cdcc176ea46a736c07e00a263dfa1a"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "67297b00811f866cfc94ffb2dc88c77d1c0f0121c4f21a7c844f5003c06ab631"
 metafile = true
 
 [[files]]
