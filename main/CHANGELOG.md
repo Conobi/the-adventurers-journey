@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.7.0](https://github.com/Donokami/the-adventurers-journey/compare/0.6.2...0.7.0) (2023-10-21)
+
+
+### Features
+
+* Add Amecs for more shortcuts ([c5dc68f](https://github.com/Donokami/the-adventurers-journey/commit/c5dc68ff7b0bf3bb5bb938aa916014da5e4fa20f))
+* Add Eureka/Valkyrien Skies ([a12abca](https://github.com/Donokami/the-adventurers-journey/commit/a12abca17dfe26fcc4fcb63da0f9411af93432b1))
+* Add Rechiseled and its Create integration ([b331497](https://github.com/Donokami/the-adventurers-journey/commit/b331497b168149eb3ed3ba2b4ffdeff02ea3c3e3))
+* Added BetterX compat to Alloy Forgery ([deef334](https://github.com/Donokami/the-adventurers-journey/commit/deef3343a0fcd04ad86508b21a573f11fadbe7d8))
+* Waystone integration on maps ([a0757cc](https://github.com/Donokami/the-adventurers-journey/commit/a0757cc77105f028ac2cfc002243f2d5659e8c78))
+
+
+### Bug Fixes
+
+* nerf the graves (15 min cooldown for robbing, 2h for grave lose) ([c423957](https://github.com/Donokami/the-adventurers-journey/commit/c423957492d56370460076af822edfa708914b11))
+* Nerf the waystone to use 2 levels ([d12a060](https://github.com/Donokami/the-adventurers-journey/commit/d12a0603f6e9905ddbb3622507cac2cdbd4c116b))
+* Remove Better Third Person for its xray bug ([70fcad4](https://github.com/Donokami/the-adventurers-journey/commit/70fcad4413f658abeee4e936b537326fe9f6f265))
+* Remove unusable Immersive Aircraft ([065c4e8](https://github.com/Donokami/the-adventurers-journey/commit/065c4e8fac598a57942defa1d535b4b94c8a701b))
+* removed Invmove ([6a2eeee](https://github.com/Donokami/the-adventurers-journey/commit/6a2eeee71c0f69b55c1f3a451a59c09e1014a428))
+* Removed Modern Fix (serialize 111 error) ([9a44b0c](https://github.com/Donokami/the-adventurers-journey/commit/9a44b0c54ea83d4577adf1854d7771c096b06301))
+* Removed the temperature change and reduced seasons duration ([0a79982](https://github.com/Donokami/the-adventurers-journey/commit/0a7998274ba14fe52ba199355ac447f44270b0f3))
+
 ## [0.6.2](https://github.com/Donokami/the-adventurers-journey/compare/0.6.1...0.6.2) (2023-10-13)
 
 
