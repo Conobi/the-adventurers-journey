@@ -988,6 +988,16 @@ hash = "c9d4609b3ef719d5830858cf155680c65d7d2ec472b5430b1964a54807646d21"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "3684d357a17d61717d3ffff4530656c93f4620802e35c3da7d4016245953dce9"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "4840aae0a245834110b0885451373a4e9614ccb21cc456fea1b0f2279126fdcc"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
