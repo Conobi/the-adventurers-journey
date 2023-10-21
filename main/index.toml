@@ -185,6 +185,10 @@ file = "config/puzzle.json"
 hash = "65150bd0bb581d677f0c66ad69c62682f9c961a06d5c045b7fc6e9f8aec5e08b"
 
 [[files]]
+file = "config/seasons.json"
+hash = "d6d30d04591b8f1667daea1e626787d3611aefda1d176a05b86df8db0016b23a"
+
+[[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "3c13666220669e91ceb21b0d9d80f3d6131502f284963081df79791fe11ea565"
 
