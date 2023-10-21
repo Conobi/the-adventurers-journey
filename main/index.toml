@@ -343,11 +343,6 @@ hash = "b469c86a931721e040f584123ecb78a007cbf30de61a702d14fb73f71f7ebba0"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "1f836198a01aabd4a476d068f934d2c96cd5b5a78cf6facd237876b81a5c4636"
-metafile = true
-
-[[files]]
 file = "mods/betterend.pw.toml"
 hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
