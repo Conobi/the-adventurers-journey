@@ -165,6 +165,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "d02b59da934e7f192911eb0fec9e0556a11ec0fdc004daa1b9ed122430ea2e10"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "e7f08fdad3953307a70c134f5e6cd5f2a30d170d674f104e16f574a1d015bba6"
 
