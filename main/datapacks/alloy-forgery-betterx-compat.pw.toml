@@ -1,0 +1,13 @@
+name = "Alloy Forgery: BetterX Compat"
+filename = "AlloyForgery+BetterX_Compat-1.0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/616Y3t8B/versions/tBbKV3vJ/AlloyForgery%2BBetterX_Compat-1.0.zip"
+hash-format = "sha1"
+hash = "ffcfcaf11605ca1a7b3c8ba38b66ca1569551744"
+
+[update]
+[update.modrinth]
+mod-id = "616Y3t8B"
+version = "tBbKV3vJ"

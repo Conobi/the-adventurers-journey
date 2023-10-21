@@ -213,6 +213,11 @@ file = "config/yigd.toml"
 hash = "6950545b875acb5fd2a8c1fe955b6b12d9880bc61b1c1a123317cd2c8ab5f863"
 
 [[files]]
+file = "datapacks/alloy-forgery-betterx-compat.pw.toml"
+hash = "9235888c56fe3767e048d16e23f88f9e481116f4a558d9cafb70fb4e4db6a163"
+metafile = true
+
+[[files]]
 file = "datapacks/arboria.pw.toml"
 hash = "4166bb203409ee85d0e6bc34badf7478dced3ee71298e85c412a1ac1d5e642fd"
 metafile = true
