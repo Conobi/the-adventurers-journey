@@ -274,11 +274,12 @@ Support all these creators, this would not exist without them!
 </center>
 
 - [KubeJS isn't working for now](https://github.com/KubeJS-Mods/KubeJS/issues/721).
-- Create Structures aren't generated. [See this](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
 - Too many structures, and structures generated in the ocean
 - Gravelly beaches aren't the most beautiful
-- Vertical slabs are broken for some BetterEnd blocks
 - Arboria custom trees cannot grow
+- *Unknown serializer type 111* can occur ([see this](https://github.com/QuiltMC/quilt-loader/issues/379))
+- Some duplication bugs exists, cannot reproduce for now
+- [Layered translucent blocks do not render correctly](https://github.com/CaffeineMC/sodium-fabric/issues/38)
 
 <center>
 
