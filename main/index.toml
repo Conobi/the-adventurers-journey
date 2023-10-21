@@ -201,6 +201,10 @@ file = "config/xaeroworldmap.txt"
 hash = "ab300cf7dc508698a3a5c5773f43ce7a3e0159173634ab404186b69f8dcc5b99"
 
 [[files]]
+file = "config/yigd.toml"
+hash = "6950545b875acb5fd2a8c1fe955b6b12d9880bc61b1c1a123317cd2c8ab5f863"
+
+[[files]]
 file = "datapacks/arboria.pw.toml"
 hash = "4166bb203409ee85d0e6bc34badf7478dced3ee71298e85c412a1ac1d5e642fd"
 metafile = true
