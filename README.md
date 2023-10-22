@@ -75,7 +75,7 @@ Support all these creators, this would not exist without them!
 - [Adorn](https://modrinth.com/mod/adorn) by Juuz
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) by Grend
 - [AdvancementInfo](https://modrinth.com/mod/advancementinfo) by Giselbaer
-- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by Noaaan, glisco, LordDeatHunter, chyzman, Blodhgarm
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery) by LordDeatHunter, glisco, chyzman, Blodhgarm, Noaaan
 - [Alternate Current](https://modrinth.com/mod/alternate-current) by Space Walker
 - [Amecs](https://modrinth.com/mod/amecs) by Siphalor
 - [Angling](https://modrinth.com/mod/angling) by 8s2
@@ -106,7 +106,7 @@ Support all these creators, this would not exist without them!
 - [Charmonium](https://modrinth.com/mod/charmonium) by svenhjol
 - [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain, dzwdz
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) by TheIllusiveC4
-- [Chipped](https://modrinth.com/mod/chipped) by Terrarium, CodexAdrian, Kekie6, AlexNijjar, ThatGravyBoat
+- [Chipped](https://modrinth.com/mod/chipped) by CodexAdrian, Kekie6, Terrarium, ThatGravyBoat, AlexNijjar
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 - [Chunky](https://modrinth.com/mod/chunky) by pop4959
 - [ClearDespawn](https://modrinth.com/mod/cleardespawn) by strikerrocker, Giselbaer
@@ -137,7 +137,6 @@ Support all these creators, this would not exist without them!
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
 - [Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) by CorgiTaco
 - [Entity Culling](https://modrinth.com/mod/entityculling) by tr7zw
-- [Eureka!](https://modrinth.com/mod/eureka) by rubydesic
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) by MehVahdJukaar, xelbayria
 - [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement) by Superkat32
 - [Extra Alchemy](https://modrinth.com/mod/extraalchemy) by zabi94
@@ -213,7 +212,7 @@ Support all these creators, this would not exist without them!
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
 - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by epic_oreo, ThatGravyBoat
-- [Rhino](https://modrinth.com/mod/rhino) by Lat, MaxNeedsSnacks
+- [Rhino](https://modrinth.com/mod/rhino) by MaxNeedsSnacks, Lat
 - [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by ItsBlackgear, JonahFuses
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) by shedaniel
 - [Searchables](https://modrinth.com/mod/searchables) by jaredlll08
@@ -233,15 +232,14 @@ Support all these creators, this would not exist without them!
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) by SuperMartijn642
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar, Plantkillable
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
-- [Terralith](https://modrinth.com/mod/terralith) by Stardust, catter1
+- [Terralith](https://modrinth.com/mod/terralith) by catter1, Stardust
 - [This Rocks!](https://modrinth.com/mod/this-rocks) by Motschen
 - [Universal Ores](https://modrinth.com/mod/universal_ores) by Hugman
-- [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) by rubydesic
 - [VillagersPlus](https://modrinth.com/mod/villagersplus) by finallion
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) by Fuzs
 - [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
 - [WTHIT](https://modrinth.com/mod/wthit) by deirn
-- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by Lunade_, osmiooo, Treetrain1, SaishoVibes, LudoCrypt, Xfrtrex, I_am_Merp, Soro335
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild) by LudoCrypt, osmiooo, Xfrtrex, I_am_Merp, Soro335, Treetrain1, SaishoVibes, Lunade_
 - [William Wythers' Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere) by Cristelknight, Apollo, WilliamWythers
 - [Wolves Of Other Furs (W.O.O.F)](https://modrinth.com/mod/wolves-of-other-furs) by mineblock11
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
@@ -251,7 +249,7 @@ Support all these creators, this would not exist without them!
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) by YUNGNICKYOUNG
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) by YUNGNICKYOUNG
-- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments) by Tera458, YUNGNICKYOUNG
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments) by YUNGNICKYOUNG, Tera458
 - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) by YUNGNICKYOUNG
 - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) by YUNGNICKYOUNG
 - [YUNG's Extras](https://modrinth.com/mod/yungs-extras) by YUNGNICKYOUNG
