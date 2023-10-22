@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/Donokami/the-adventurers-journey/compare/0.7.0...0.7.1) (2023-10-22)
+
+
+### Bug Fixes
+
+* Removed Valkyrien Skies 2 for incompatibilites ([4498bcb](https://github.com/Donokami/the-adventurers-journey/commit/4498bcbd05587851d528d131e9cdaea259dd7c3e))
+
 ## [0.7.0](https://github.com/Donokami/the-adventurers-journey/compare/0.6.2...0.7.0) (2023-10-21)
 
 
