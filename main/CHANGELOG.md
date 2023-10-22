@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.3](https://github.com/Donokami/the-adventurers-journey/compare/0.7.2...0.7.3) (2023-10-22)
+
+
+### Bug Fixes
+
+* Rollback Comfort update (broken dependencies) ([6eb05ee](https://github.com/Donokami/the-adventurers-journey/commit/6eb05eee172cdec2d5ec454c467b752e53d5d640))
+
 ## [0.7.2](https://github.com/Donokami/the-adventurers-journey/compare/0.7.1...0.7.2) (2023-10-22)
 
 
