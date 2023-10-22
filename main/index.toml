@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "77af460162c8b171b2060fb328faf161e718347cdf7d08b933bce12ab7f3edeb"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
