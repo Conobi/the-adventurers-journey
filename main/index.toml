@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
+hash = "77af460162c8b171b2060fb328faf161e718347cdf7d08b933bce12ab7f3edeb"
 metafile = true
 
 [[files]]
@@ -609,12 +609,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "eb9c6a3771dda6de23a6fb071494902f413a4f88bbb27447d9705bf4b1097267"
+hash = "6eb182c1a6907bb9fa7b27887d3ec55dfd502bae7c8de9b313f1d118fa178068"
 metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "732933c428400d67c6333de4773ec6aa8fca992f8c387ffe557297e6c40c5dd7"
+hash = "26d6336595b504f7d7a63193b7228e1cba407a8ec770dbd45cdbea99e03890d0"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "04b2fe6566bd3250e7814aa0cbdf33c134ddd015e8af6edf4f1e5600ef82afaa"
+hash = "21f2cd609fdc6721a3e8627a9821f263dfd650ba7120dc83a046f1840092d356"
 metafile = true
 
 [[files]]
@@ -714,12 +714,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "86c434a20065ecb7d2a8c65aea7f74b008cdcc176ea46a736c07e00a263dfa1a"
+hash = "449e25d878b91270d45b848b6704ae02b134d72946453a90fea0c79553a67fd5"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a16799bfb18ad3723165408cc7ca841091497ffd2a4ea31da365017f67846bbf"
+hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "565e83ccca019170851fcb337355339b8df899ec551f20085b1204d6280dede7"
+hash = "1f964f0c6530618820fb1abad73c5e5bfa3b8fd59d9b9632923e96125e2a6485"
 metafile = true
 
 [[files]]
@@ -1019,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "4f0b333b8e7563bddd287a53974acff42109275f35c42931b8674e0b0f0c10a9"
+hash = "46b000fae41f783ed64f017a7b92dd353f944ed29d6f27ac59f45677057148be"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f2926e81784e2a97463b1fcf33a0e27d9aff0e423e7270029fd4694adef016c4"
+hash = "e10d7781543fa2ed9d57d2dd20dda671b7ef5264ba2960fe68aa1636924324b1"
 metafile = true
 
 [[files]]

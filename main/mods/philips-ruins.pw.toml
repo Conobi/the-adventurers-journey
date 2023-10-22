@@ -1,13 +1,13 @@
 name = "Philips Ruins"
-filename = "Philips-Ruins1.19.2-7.7[Fabric].jar"
+filename = "Philips-Ruins1.19.2-7.8[Fabric].jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/9piBuMfV/Philips-Ruins1.19.2-7.7%5BFabric%5D.jar"
+url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/lmJopRSQ/Philips-Ruins1.19.2-7.8%5BFabric%5D.jar"
 hash-format = "sha1"
-hash = "66cd31e9af59d63a3f13322f23e741a73555d7e8"
+hash = "f77f5f5f40256955ec9ec41917cbbfd94a1a1e4d"
 
 [update]
 [update.modrinth]
 mod-id = "KdJhOYVV"
-version = "9piBuMfV"
+version = "lmJopRSQ"

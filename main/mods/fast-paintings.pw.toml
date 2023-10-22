@@ -1,13 +1,13 @@
 name = "Fast Paintings"
-filename = "fastpaintings-1.19-1.1.1-fabric.jar"
+filename = "fastpaintings-1.19-1.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z3TzcquW/versions/nvXjg8Il/fastpaintings-1.19-1.1.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/Y7RbF171/fastpaintings-1.19-1.1.2-fabric.jar"
 hash-format = "sha1"
-hash = "b50e6ab0e7cc5d9fc04818b20dfa365d99f0985a"
+hash = "19f333eda3d3a831e181643a354cb2de52d7bb72"
 
 [update]
 [update.modrinth]
 mod-id = "z3TzcquW"
-version = "nvXjg8Il"
+version = "Y7RbF171"
