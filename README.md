@@ -186,7 +186,7 @@ Support all these creators, this would not exist without them!
 - [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
-- [Moyai](https://modrinth.com/mod/moyai) by MehVahdJukaar, Plantkillable
+- [Moyai](https://modrinth.com/mod/moyai) by Plantkillable, MehVahdJukaar
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, glisco, Noaaan
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
@@ -221,7 +221,7 @@ Support all these creators, this would not exist without them!
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by bl4ckscor3
 - [Skip backup screen](https://modrinth.com/mod/skip-backup-screen) by maxthetomas
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
-- [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) by UltimateBoomer, fantahund
+- [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) by fantahund, UltimateBoomer
 - [Sodium](https://modrinth.com/mod/sodium) by jellysquid3, IMS
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
 - [Starlight (Fabric)](https://modrinth.com/mod/starlight) by spottedleaf
@@ -232,7 +232,7 @@ Support all these creators, this would not exist without them!
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) by SuperMartijn642
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar, Plantkillable
 - [TerraBlender](https://modrinth.com/mod/terrablender) by Adubbz
-- [Terralith](https://modrinth.com/mod/terralith) by catter1, Stardust
+- [Terralith](https://modrinth.com/mod/terralith) by Stardust, catter1
 - [This Rocks!](https://modrinth.com/mod/this-rocks) by Motschen
 - [Universal Ores](https://modrinth.com/mod/universal_ores) by Hugman
 - [VillagersPlus](https://modrinth.com/mod/villagersplus) by finallion
