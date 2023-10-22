@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.2](https://github.com/Donokami/the-adventurers-journey/compare/0.7.1...0.7.2) (2023-10-22)
+
+
+### Bug Fixes
+
+* Updated mods to their latest version ([dc4ff56](https://github.com/Donokami/the-adventurers-journey/commit/dc4ff561169771a5f7346239218fe0e1eb3ff2e3))
+
 ## [0.7.1](https://github.com/Donokami/the-adventurers-journey/compare/0.7.0...0.7.1) (2023-10-22)
 
 
