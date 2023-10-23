@@ -81,7 +81,7 @@ Support all these creators, this would not exist without them!
 - [Angling](https://modrinth.com/mod/angling) by 8s2
 - [AntiGhost](https://modrinth.com/mod/antighost) by Giselbaer
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502
-- [Architectury API](https://modrinth.com/mod/architectury-api) by shedaniel, MaxNeedsSnacks, Juuz
+- [Architectury API](https://modrinth.com/mod/architectury-api) by Juuz, shedaniel, MaxNeedsSnacks
 - [Async Locator](https://modrinth.com/mod/async-locator) by bright_spark
 - [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quat
 - [BCLib](https://modrinth.com/mod/bclib) by quiqueck
@@ -106,7 +106,7 @@ Support all these creators, this would not exist without them!
 - [Charmonium](https://modrinth.com/mod/charmonium) by svenhjol
 - [Chat Heads](https://modrinth.com/mod/chat-heads) by Fourmisain, dzwdz
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds) by TheIllusiveC4
-- [Chipped](https://modrinth.com/mod/chipped) by CodexAdrian, Kekie6, Terrarium, ThatGravyBoat, AlexNijjar
+- [Chipped](https://modrinth.com/mod/chipped) by Terrarium, CodexAdrian, Kekie6, AlexNijjar, ThatGravyBoat
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) by ChoiceTheorem
 - [Chunky](https://modrinth.com/mod/chunky) by pop4959
 - [ClearDespawn](https://modrinth.com/mod/cleardespawn) by strikerrocker, Giselbaer
@@ -162,11 +162,8 @@ Support all these creators, this would not exist without them!
 - [Iris Shaders](https://modrinth.com/mod/iris) by coderbot, IMS
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs) by BlayTheNinth
 - [Konkrete](https://modrinth.com/mod/konkrete) by keksuccino
-- [Krypton](https://modrinth.com/mod/krypton) by astei
-- [Ksyxis](https://modrinth.com/mod/ksyxis) by VidTu
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
 - [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
-- [LazyDFU](https://modrinth.com/mod/lazydfu) by astei
 - [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone) by Fuzs
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) by Grend
 - [Let Me Despawn](https://modrinth.com/mod/lmd) by frikinjay
@@ -186,7 +183,7 @@ Support all these creators, this would not exist without them!
 - [More Culling](https://modrinth.com/mod/moreculling) by fxmorin
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by nyuppo
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by YaLTeR
-- [Moyai](https://modrinth.com/mod/moyai) by Plantkillable, MehVahdJukaar
+- [Moyai](https://modrinth.com/mod/moyai) by MehVahdJukaar, Plantkillable
 - [Mythic Metals](https://modrinth.com/mod/mythicmetals) by LordDeatHunter, glisco, Noaaan
 - [Naturalist](https://modrinth.com/mod/naturalist) by crispytwig
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by robotkoer, Aizistral
@@ -212,8 +209,8 @@ Support all these creators, this would not exist without them!
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config) by ThatGravyBoat, epic_oreo
 - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) by epic_oreo, ThatGravyBoat
-- [Rhino](https://modrinth.com/mod/rhino) by MaxNeedsSnacks, Lat
-- [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by ItsBlackgear, JonahFuses
+- [Rhino](https://modrinth.com/mod/rhino) by Lat, MaxNeedsSnacks
+- [Rotten Creatures](https://modrinth.com/mod/rottencreatures) by JonahFuses, ItsBlackgear
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) by shedaniel
 - [Searchables](https://modrinth.com/mod/searchables) by jaredlll08
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) by MisterPeModder
@@ -221,7 +218,7 @@ Support all these creators, this would not exist without them!
 - [Sit](https://modrinth.com/mod/bl4cks-sit) by bl4ckscor3
 - [Skip backup screen](https://modrinth.com/mod/skip-backup-screen) by maxthetomas
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) by MehVahdJukaar
-- [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) by fantahund, UltimateBoomer
+- [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) by UltimateBoomer, fantahund
 - [Sodium](https://modrinth.com/mod/sodium) by jellysquid3, IMS
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
 - [Starlight (Fabric)](https://modrinth.com/mod/starlight) by spottedleaf
@@ -245,7 +242,7 @@ Support all these creators, this would not exist without them!
 - [Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair) by thexaero
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) by thexaero
 - [YUNG's API](https://modrinth.com/mod/yungs-api) by YUNGNICKYOUNG
-- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by YUNGNICKYOUNG, Tera458
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples) by Tera458, YUNGNICKYOUNG
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) by YUNGNICKYOUNG
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) by YUNGNICKYOUNG
 - [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) by YUNGNICKYOUNG
