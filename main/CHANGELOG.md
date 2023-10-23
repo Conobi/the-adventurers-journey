@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.4](https://github.com/Donokami/the-adventurers-journey/compare/0.7.3...0.7.4) (2023-10-23)
+
+
+### Bug Fixes
+
+* reducedchances to get a 111 error ([0bc95ac](https://github.com/Donokami/the-adventurers-journey/commit/0bc95acc91274ed2bfc8891731d319feb4fd1aea))
+
 ## [0.7.3](https://github.com/Donokami/the-adventurers-journey/compare/0.7.2...0.7.3) (2023-10-22)
 
 
